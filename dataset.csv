@@ -1,0 +1,757 @@
+Timestamp,Date,Client ID,Age,Income of Principal Buyer,Marital Status,No. of Family Members,Preferred Location,SOURCE OF LEAD,Source of Income,Employer,Preferred Pay Term,Age of Spouse,Income of Spouse,Recommended Model
+01/05/2024 19:22:08,01/05/2024,Client 1,29,"PHP 125,500",Married,7,BATULAO,Facebook Ads,Locally Employed,bdo unibank,20-80 Pagibig Financing,30,"PHP 83,000",CALISTA END
+01/06/2024 11:56:09,01/06/2024,Client 2,27,"PHP 61,000",Married,2,MAGALANG EAST,Facebook Ads,Self Employed/ Business Owner,independent contractor,20-80 Pagibig Financing,25,"PHP 42,500",CALISTA END
+01/11/2024 20:54:34,01/11/2024,Client 3,42,"PHP 247,000",Single,N/a,GAPAN,Broker/Agent,OFW Land base,Aramco,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+01/15/2024 14:35:29,01/15/2024,Client 4,47,"PHP 32,500",Single,,LIPA,Facebook Ads,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,,,CALISTA MID
+01/17/2024 17:33:44,01/17/2024,Client 5,27,"PHP 243,000",Married,2,TAYABAS,Facebook Ads,OFW Land base,Hyundai engineering,20-80 Pagibig Financing,28,"PHP 224,500",CALISTA END
+01/18/2024 10:28:55,01/18/2024,Client 6,42,"PHP 144,500",Widow,,LIPA,Referral,OFW Land base,Consolidated contractors,20-80 Pagibig Financing,,,CALISTA END
+01/21/2024 09:51:11,01/21/2024,Client 7,53,"PHP 84,000",Single,,BATULAO,Referral,OFW Land base,Walmart us,20-80 Pagibig Financing,,,CALISTA MID
+01/29/2024 16:28:18,01/29/2024,Client 8,27,"PHP 32,500",Widow,,BATULAO,Facebook Ads,OFW Land base,Emaar properties,20-80 Pagibig Financing,,,CALISTA MID
+01/31/2024 09:38:03,01/31/2024,Client 9,36,"PHP 175,500",Married,7,NAIC,Facebook Ads,OFW Land base,samsung hq seoul,20-80 Pagibig Financing,37,"PHP 189,000",CALISTA END
+01/31/2024 14:38:58,01/31/2024,Client 10,32,"PHP 48,500",Single,,BATULAO,Broker/Agent,OFW Land base,Emaar properties,20-80 Pagibig Financing,,,CALISTA MID
+02/02/2024 14:41:50,02/02/2024,Client 11,32,"PHP 177,500",Single,,NAIC,Referral,OFW Land base,Emirates airlines,Deferred Cash,,,CALISTA END
+02/13/2024 19:35:45,02/13/2024,Client 12,51,"PHP 123,500",Married,4,SIGHTS CALAUAN,Facebook Ads,Self Employed/ Business Owner,family catering services,10-90 Bank Financing,52,"PHP 147,000",CALISTA END
+02/15/2024 15:33:36,02/15/2024,Client 13,31,"PHP 113,500",Widow,,GEN TRI,Facebook Ads,OFW Land base,emaar properties,20-80 Pagibig Financing,,,CALISTA MID
+02/20/2024 18:31:07,02/20/2024,Client 14,33,"PHP 59,500",Single,,NAIC,Facebook Ads,Locally Employed,san miguel corporation,20-80 Pagibig Financing,,,CALISTA MID
+02/22/2024 17:11:17,02/22/2024,Client 15,53,"PHP 209,000",Single,,IMPRESSIONS HERMOSA,Facebook Ads,OFW Land base,samsung c&t (saudi),20-80 Pagibig Financing,,,CALISTA END
+02/22/2024 09:37:35,02/22/2024,Client 16,27,"PHP 92,000",Single,N/a,LIPA,Referral,Locally Employed,Philippine general hospital,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+02/23/2024 20:09:20,02/23/2024,Client 17,50,"PHP 195,500",Single,N/a,LIPA,Facebook Ads,Self Employed/ Business Owner,own business operations,Cash,N/a,N/a,CALISTA END
+02/26/2024 12:59:22,02/26/2024,Client 18,39,"PHP 86,000",Married,3,PANDI EXPANSION,Referral,Self Employed/ Business Owner,own accounting practice,20-80 Pagibig Financing,39,"PHP 48,500",CALISTA END
+02/28/2024 11:01:41,02/28/2024,Client 19,49,"PHP 23,500",Single,,LIPA,Referral,Locally Employed,philippine national police,10-90 Bank Financing,,,CALISTA MID
+03/10/2024 11:45:09,03/10/2024,Client 20,25,"PHP 210,000",Married,3,MAGALANG EAST,Referral,OFW Land base,Al rajhi bank,20-80 Pagibig Financing,25,"PHP 172,500",CALISTA END
+03/11/2024 14:15:36,03/11/2024,Client 21,51,"PHP 67,000",Single,,LIPA,Facebook Ads,OFW Sea Base,philippine Airlines (int'l),20-80 Pagibig Financing,,,CALISTA MID
+03/13/2024 13:20:28,03/13/2024,Client 22,30,"PHP 85,500",Married,3,LIPA,Other:,Locally Employed,globe telecom,10-90 Bank Financing,25,"PHP 72,000",CALISTA END
+03/13/2024 17:56:33,03/13/2024,Client 23,32,"PHP 41,000",Married,7,LIPA,Facebook Ads,Locally Employed,Ayala Land Construction,20-80 Pagibig Financing,35,"PHP 23,000",CALISTA MID
+03/23/2024 10:39:07,03/23/2024,Client 24,50,"PHP 324,000",Married,4,BALIWAG,Other:,OFW Land base,Hyundai engineering korea,20-80 Pagibig Financing,48,"PHP 319,000",UNNA CORNER
+03/24/2024 09:26:50,03/24/2024,Client 25,55,"PHP 156,500",Single,,BALIWAG,Facebook Ads,OFW Land base,samsung c&t (saudi),20-80 Pagibig Financing,,,CALISTA END
+04/07/2024 20:55:25,04/07/2024,Client 26,46,"PHP 72,500",Married,7,GAPAN,Facebook Ads,OFW Land base,Japan tobacco int'l,10-90 Bank Financing,43,"PHP 49,000",CALISTA END
+04/17/2024 13:18:08,04/17/2024,Client 27,35,"PHP 145,500",Married,7,BATULAO,Facebook Ads,OFW Sea Base,Maersk line,20-80 Pagibig Financing,32,"PHP 160,000",CALISTA END
+04/18/2024 08:27:21,04/18/2024,Client 28,47,"PHP 46,000",Married,6,BATULAO,Facebook Ads,Locally Employed,universal robina corp,20-80 Pagibig Financing,51,"PHP 57,000",CALISTA END
+04/20/2024 11:03:17,04/20/2024,Client 29,33,"PHP 111,000",Single,,LIPA,Facebook Ads,OFW Land base,Adnoc,10-90 Bank Financing,,,CALISTA END
+04/23/2024 13:12:01,04/23/2024,Client 30,43,"PHP 47,000",Widow,,LIPA,Referral,Self Employed/ Business Owner,Tricycle operator,20-80 Pagibig Financing,,,CALISTA MID
+04/26/2024 12:11:33,04/26/2024,Client 31,28,"PHP 35,500",Married,2,MAGALANG EAST,Facebook Ads,OFW Sea Base,philippine airlines (int'l),10-90 Bank Financing,23,"PHP 21,000",CALISTA MID
+04/28/2024 15:37:23,04/28/2024,Client 32,45,"PHP 60,500",Single,,LIPA,Broker/Agent,OFW Land base,Bechtel middle east,10-90 Bank Financing,,,CALISTA MID
+05/08/2024 10:57:07,05/08/2024,Client 33,31,"PHP 130,000",Married,6,LIPA,Facebook Ads,OFW Land base,AL rajhi bank,10-90 Bank Financing,36,"PHP 150,000",CALISTA END
+05/09/2024 15:51:11,05/09/2024,Client 34,28,"PHP 32,500",Married,5,LIPA,Referral,OFW Land base,emirates airlines,20-80 Pagibig Financing,29,"PHP 32,500",CALISTA MID
+05/10/2024 16:11:07,05/10/2024,Client 35,30,"PHP 27,000",Widow,,LIPA,Facebook Ads,Locally Employed,Universal robina corp,10-90 Bank Financing,,,CALISTA MID
+05/16/2024 14:25:52,05/16/2024,Client 36,25,"PHP 39,500",Married,2,LIPA,Facebook Ads,OFW Land base,petrofac,10-90 Bank Financing,29,"PHP 20,000",CALISTA MID
+05/21/2024 09:11:43,05/21/2024,Client 37,46,"PHP 192,000",Widow,4,CALAMBA,Referral,OFW Land base,Samsung hq seoul,20-80 Pagibig Financing,,,CALISTA END
+06/04/2024 09:31:04,06/04/2024,Client 38,43,"PHP 58,500",Married,2,BATULAO,Facebook Ads,Self Employed/ Business Owner,Tricycle operator,20-80 Pagibig Financing,46,"PHP 48,000",CALISTA END
+06/14/2024 10:29:33,06/14/2024,Client 39,54,"PHP 18,500",Single,N/a,GEN TRI,Referral,Self Employed/ Business Owner,family catering services,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+06/15/2024 20:16:33,06/15/2024,Client 40,35,"PHP 286,000",Married,4,BALIWAG,Facebook Ads,Locally Employed,Sm investments corp,20-80 Pagibig Financing,33,"PHP 244,500",UNNA CORNER
+06/18/2024 12:45:55,06/18/2024,Client 41,52,"PHP 127,000",Married,5,GEN TRI,Referral,Self Employed/ Business Owner,freelance Services,20-80 Pagibig Financing,53,"PHP 147,000",UNNA CORNER
+06/21/2024 16:34:50,06/21/2024,Client 42,35,"PHP 26,000",Single,,GEN TRI,Referral,Locally Employed,Meralco,20-80 Pagibig Financing,,,CALISTA MID
+06/25/2024 17:26:27,06/25/2024,Client 43,45,"PHP 122,500",Married,3,MAGALANG EAST,Broker/Agent,OFW Land base,Al rajhi Bank,20-80 Pagibig Financing,47,"PHP 151,500",CALISTA END
+07/05/2024 13:27:12,07/05/2024,Client 44,44,"PHP 108,000",Married,6,LIPA,Referral,OFW Sea Base,msc cruises,Deferred Cash,48,"PHP 121,500",CALISTA END
+07/08/2024 09:09:29,07/08/2024,Client 45,36,"PHP 169,000",Married,6,PANDI EXPANSION,Facebook Ads,OFW Land base,prosegur uae,20-80 Pagibig Financing,40,"PHP 212,000",CALISTA END
+07/09/2024 20:33:36,07/09/2024,Client 46,25,"PHP 165,500",Single,,NAIC,Referral,OFW Land base,Samsung c&t (saudi),10-90 Bank Financing,,,CALISTA END
+07/15/2024 20:07:14,07/15/2024,Client 47,33,"PHP 21,000",Married,2,STO. TOMAS,Facebook Ads,Self Employed/ Business Owner,Independent contractor,20-80 Pagibig Financing,29,"PHP 13,000",CALISTA MID
+07/16/2024 16:38:14,07/16/2024,Client 48,35,"PHP 172,000",Married,6,GEN TRI,Broker/Agent,OFW Land base,hyundai engineering,20-80 Pagibig Financing,32,"PHP 142,500",CALISTA END
+07/16/2024 13:19:54,07/16/2024,Client 49,53,"PHP 63,000",Single,,BALIWAG,Facebook Ads,Self Employed/ Business Owner,online seller,Cash,,,CALISTA MID
+07/18/2024 15:41:46,07/18/2024,Client 50,49,"PHP 85,500",Married,3,LIPA,Facebook Ads,OFW Land base,four Seasons dubai,10-90 Bank Financing,49,"PHP 95,500",CALISTA END
+07/20/2024 19:10:18,07/20/2024,Client 51,38,"PHP 64,500",Single,,MAGALANG EAST,Broker/Agent,Locally Employed,Philippine airlines,20-80 Pagibig Financing,,,CALISTA MID
+07/26/2024 11:56:48,07/26/2024,Client 52,26,"PHP 66,000",Married,7,CALAMBA,Referral,Locally Employed,philippine national police,20-80 Pagibig Financing,22,"PHP 78,500",CALISTA END
+07/29/2024 20:33:30,07/29/2024,Client 53,36,"PHP 41,000",Married,7,LIPA,Facebook Ads,Locally Employed,universal robina Corp,20-80 Pagibig Financing,33,"PHP 42,500",CALISTA MID
+08/03/2024 15:58:20,08/03/2024,Client 54,53,"PHP 214,000",Single,N/a,PANDI EXPANSION,Referral,OFW Land base,Qatar petroleum,10-90 Bank Financing,N/a,N/a,CALISTA END
+08/06/2024 08:17:15,08/06/2024,Client 55,53,"PHP 151,000",Married,7,BATULAO,Facebook Ads,OFW Land base,northrop grumman,20-80 Pagibig Financing,57,"PHP 176,000",CALISTA END
+08/21/2024 09:25:48,08/21/2024,Client 56,50,"PHP 193,000",Single,,MAGALANG EAST,Broker/Agent,OFW Land base,Al rajhi bank,10-90 Bank Financing,,,CALISTA END
+08/26/2024 09:58:58,08/26/2024,Client 57,31,"PHP 113,500",Single,,LIPA,Facebook Ads,OFW Land base,Al futtaim group,20-80 Pagibig Financing,,,CALISTA END
+08/27/2024 18:43:45,08/27/2024,Client 58,46,"PHP 198,000",Married,6,BATULAO,Facebook Ads,OFW Sea Base,Msc cruises,20-80 Pagibig Financing,47,"PHP 152,500",CALISTA END
+09/06/2024 10:24:50,09/06/2024,Client 59,41,"PHP 201,000",Married,5,BATULAO,Broker/Agent,OFW Land base,Emaar properties,Deferred Cash,42,"PHP 167,000",CALISTA END
+09/12/2024 09:13:29,09/12/2024,Client 60,30,"PHP 38,500",Married,3,LIPA,Facebook Ads,Self Employed/ Business Owner,Independent contractor,20-80 Pagibig Financing,33,"PHP 22,000",CALISTA MID
+09/14/2024 14:44:55,09/14/2024,Client 61,41,"PHP 102,000",Married,5,PANDI EXPANSION,Referral,OFW Land base,four seasons dubai,20-80 Pagibig Financing,41,"PHP 110,000",CALISTA END
+09/24/2024 16:58:50,09/24/2024,Client 62,41,"PHP 125,500",Married,6,CALAMBA,Facebook Ads,OFW Land base,Hyundai engineering korea,20-80 Pagibig Financing,43,"PHP 86,000",CALISTA END
+10/05/2024 12:58:40,10/05/2024,Client 63,53,"PHP 233,500",Married,4,STO. TOMAS,Broker/Agent,OFW Land base,Al rajhi bank,20-80 Pagibig Financing,51,"PHP 239,000",CALISTA END
+10/05/2024 08:35:13,10/05/2024,Client 64,34,"PHP 189,500",Married,2,PANDI EXPANSION,Broker/Agent,OFW Sea Base,msc cruises,10-90 Bank Financing,30,"PHP 227,500",CALISTA END
+10/06/2024 15:05:50,10/06/2024,Client 65,34,"PHP 146,000",Single,,BATULAO,Referral,OFW Land base,SOHAR aluminum,10-90 Bank Financing,,,CALISTA END
+10/06/2024 10:10:07,10/06/2024,Client 66,44,"PHP 70,000",Married,3,BATULAO,Referral,OFW Land base,aramco,20-80 Pagibig Financing,42,"PHP 78,000",CALISTA END
+10/08/2024 16:38:13,10/08/2024,Client 67,50,"PHP 95,500",Single,N/a,BATULAO,Referral,OFW Sea Base,carnival cruise line,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+10/12/2024 10:16:40,10/12/2024,Client 68,45,"PHP 30,500",Single,N/a,BATULAO,Broker/Agent,Self Employed/ Business Owner,family agricultural business,10-90 Bank Financing,N/a,N/a,CALISTA MID
+10/15/2024 12:46:39,10/15/2024,Client 69,34,"PHP 74,500",Married,7,SAN PABLO EAST,Broker/Agent,Locally Employed,ayala land construction,20-80 Pagibig Financing,33,"PHP 63,500",CALISTA END
+10/15/2024 13:03:30,10/15/2024,Client 70,27,"PHP 160,000",Single,N/a,MAGALANG EAST,Other:,OFW Land base,adnoc,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+10/15/2024 16:17:20,10/15/2024,Client 71,47,"PHP 206,000",Married,5,GEN TRI,Broker/Agent,OFW Sea Base,carnival cruise line,10-90 Bank Financing,48,"PHP 262,000",CALISTA END
+10/21/2024 15:09:41,10/21/2024,Client 72,53,"PHP 38,000",Single,N/a,STO. TOMAS,Facebook Ads,OFW Sea Base,carnival cruise Line,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+10/24/2024 15:41:56,10/24/2024,Client 73,41,"PHP 19,000",Married,4,BATULAO,Broker/Agent,Self Employed/ Business Owner,Sari-sari store,10-90 Bank Financing,44,"PHP 14,000",CALISTA MID
+10/25/2024 10:36:11,10/25/2024,Client 74,42,"PHP 40,000",Single,,MAGALANG EAST,Referral,OFW Land base,Al futtaim group,20-80 Pagibig Financing,,,CALISTA MID
+10/27/2024 20:17:36,10/27/2024,Client 75,53,"PHP 200,000",Single,,MAGALANG EAST,Broker/Agent,Locally Employed,Ayala land construction,Cash,,,CALISTA END
+10/28/2024 14:48:58,10/28/2024,Client 76,56,"PHP 316,500",Married,6,BALIWAG,Facebook Ads,OFW Sea Base,CARNIVAL cruise line,10-90 Bank Financing,59,"PHP 190,500",UNNA CORNER
+10/30/2024 09:56:42,10/30/2024,Client 77,49,"PHP 182,500",Married,3,NAIC,Other:,OFW Sea Base,msc cruises,10-90 Bank Financing,50,"PHP 220,000",CALISTA END
+10/31/2024 15:40:34,10/31/2024,Client 78,32,"PHP 176,000",Widow,,LIPA,Facebook Ads,Locally Employed,metrobank,20-80 Pagibig Financing,,,CALISTA END
+10/31/2024 20:06:43,10/31/2024,Client 79,47,"PHP 92,000",Married,3,LIPA,Facebook Ads,OFW Land base,Samsung C&t (saudi),20-80 Pagibig Financing,51,"PHP 57,500",CALISTA END
+11/05/2024 10:15:31,11/05/2024,Client 80,39,"PHP 74,000",Married,4,MAGALANG EAST,Referral,Self Employed/ Business Owner,freelance services,20-80 Pagibig Financing,44,"PHP 77,000",CALISTA END
+11/10/2024 12:46:33,11/10/2024,Client 81,25,"PHP 139,500",Single,N/a,BALANGA,Broker/Agent,OFW Land base,Four seasons dubai,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+11/25/2024 16:59:18,11/25/2024,Client 82,49,"PHP 92,500",Married,2,LIPA,Facebook Ads,Self Employed/ Business Owner,event catering entrepreneur,20-80 Pagibig Financing,51,"PHP 60,500",CALISTA END
+12/05/2024 16:15:39,12/05/2024,Client 83,33,"PHP 193,000",Single,,BATULAO,Facebook Ads,OFW Land base,Samsung c&t (saudi),10-90 Bank Financing,,,CALISTA END
+12/10/2024 14:02:31,12/10/2024,Client 84,50,"PHP 175,000",Single,N/a,PANDI EXPANSION,Broker/Agent,OFW Sea Base,carnival cruise line,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+12/12/2024 19:12:48,12/12/2024,Client 85,54,"PHP 72,000",Single,N/a,NAIC,Facebook Ads,OFW Land base,bechtel middle east,Deferred Cash,N/a,N/a,CALISTA MID
+12/15/2024 19:01:35,12/15/2024,Client 86,30,"PHP 30,000",Married,2,MAGALANG EAST,Referral,OFW Land base,aramco,20-80 Pagibig Financing,35,"PHP 23,500",CALISTA MID
+12/17/2024 11:03:53,12/17/2024,Client 87,33,"PHP 118,500",Single,,PANDI EXPANSION,Facebook Ads,OFW Land base,Petrofac,20-80 Pagibig Financing,,,CALISTA END
+12/24/2024 08:53:01,12/24/2024,Client 88,48,"PHP 25,500",Single,,LIPA,Facebook Ads,Self Employed/ Business Owner,Own accounting Practice,20-80 Pagibig Financing,,,CALISTA MID
+12/31/2024 09:28:54,12/31/2024,Client 89,27,"PHP 140,500",Married,5,PANDI EXPANSION,Broker/Agent,Locally Employed,department OF EDUCATION,Cash,26,"PHP 144,000",CALISTA END
+01/01/2025 11:26:55,01/01/2025,Client 90,29,"PHP 97,500",Married,2,BATULAO,Referral,Self Employed/ Business Owner,own business operations,Cash,27,"PHP 80,500",CALISTA END
+01/01/2025 17:28:41,01/01/2025,Client 91,33,"PHP 194,000",Single,,BATULAO,Broker/Agent,OFW Land base,al futtaim group,20-80 Pagibig Financing,,,CALISTA END
+01/12/2025 09:04:05,01/12/2025,Client 92,28,"PHP 92,000",Widow,N/a,GEN TRI,Broker/Agent,Self Employed/ Business Owner,family catering services,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+01/14/2025 09:04:28,01/14/2025,Client 93,54,"PHP 40,500",Single,,LIPA,Facebook Ads,Self Employed/ Business Owner,family agricultural business,Cash,,,CALISTA MID
+01/17/2025 17:53:39,01/17/2025,Client 94,43,"PHP 50,000",Married,4,GAPAN,Facebook Ads,OFW Land base,Sohar aluminum,20-80 Pagibig Financing,39,"PHP 45,000",CALISTA END
+01/18/2025 16:17:17,01/18/2025,Client 95,58,"PHP 94,000",Married,6,GEN TRI,Referral,OFW Land base,enoc,10-90 Bank Financing,53,"PHP 86,000",UNNA CORNER
+01/22/2025 15:49:19,01/22/2025,Client 96,52,"PHP 93,000",Married,6,NAIC,Facebook Ads,OFW Land base,Consolidated contractors,20-80 Pagibig Financing,49,"PHP 84,500",CALISTA END
+01/22/2025 13:24:35,01/22/2025,Client 97,47,"PHP 128,000",Single,,PANDI EXPANSION,Referral,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,,,CALISTA END
+01/24/2025 12:43:39,01/24/2025,Client 98,49,"PHP 113,000",Single,,BATULAO,Referral,OFW Land base,prosegur uae,Deferred Cash,,,CALISTA END
+02/07/2025 14:28:19,02/07/2025,Client 99,35,"PHP 183,500",Single,,GAPAN,Facebook Ads,OFW Sea Base,carnival cruise line,20-80 Pagibig Financing,,,CALISTA END
+02/09/2025 08:03:03,02/09/2025,Client 100,39,"PHP 147,500",Married,4,MAGALANG EAST,Other:,OFW Land base,emaar properties,20-80 Pagibig Financing,40,"PHP 129,000",CALISTA END
+02/12/2025 16:18:43,02/12/2025,Client 101,35,"PHP 217,500",Married,2,BATULAO,Facebook Ads,OFW Land base,al rajhi bank,20-80 Pagibig Financing,40,"PHP 216,500",CALISTA END
+02/22/2025 14:36:53,02/22/2025,Client 102,63,"PHP 210,000",Married,9,BALIWAG,Referral,Locally Employed,bureau OF internal REVENUE,Cash,67,"PHP 234,000",UNNA CORNER
+03/08/2025 09:45:29,03/08/2025,Client 103,40,"PHP 112,500",Married,5,TAYABAS,Broker/Agent,OFW Land base,four SEASONS dubai,20-80 Pagibig Financing,35,"PHP 146,000",CALISTA END
+03/10/2025 18:37:53,03/10/2025,Client 104,32,"PHP 69,500",Married,6,BATULAO,Broker/Agent,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,28,"PHP 67,000",CALISTA END
+03/12/2025 16:38:08,03/12/2025,Client 105,38,"PHP 153,500",Single,,BALIWAG,Facebook Ads,Locally Employed,the medical city,20-80 Pagibig Financing,,,CALISTA END
+03/13/2025 11:45:00,03/13/2025,Client 106,34,"PHP 41,500",Single,N/a,CALAMBA,Facebook Ads,Self Employed/ Business Owner,independent contractor,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+03/15/2025 16:45:44,03/15/2025,Client 107,47,"PHP 119,000",Single,,IMPRESSIONS HERMOSA,Other:,OFW Land base,Petrofac,20-80 Pagibig Financing,,,CALISTA END
+03/17/2025 17:04:14,03/17/2025,Client 108,44,"PHP 73,500",Single,N/a,GEN TRI,Referral,OFW Land base,Jumeirah group,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+03/19/2025 19:26:34,03/19/2025,Client 109,25,"PHP 112,000",Married,2,PANDI EXPANSION,Facebook Ads,OFW Land base,apple inc.,20-80 Pagibig Financing,22,"PHP 145,000",CALISTA END
+03/29/2025 09:36:36,03/29/2025,Client 110,52,"PHP 200,500",Married,5,CALAMBA,Broker/Agent,OFW Land base,adnoc,20-80 Pagibig Financing,53,"PHP 227,000",CALISTA END
+04/08/2025 13:59:22,04/08/2025,Client 111,30,"PHP 116,500",Married,2,MAGALANG EAST,Facebook Ads,OFW Land base,japan tobacco int'l,20-80 Pagibig Financing,32,"PHP 89,000",CALISTA END
+04/10/2025 13:30:07,04/10/2025,Client 112,27,"PHP 108,000",Married,6,LIPA,Referral,OFW Land base,Samsung hq seoul,20-80 Pagibig Financing,29,"PHP 129,000",CALISTA END
+04/20/2025 20:42:08,04/20/2025,Client 113,42,"PHP 94,000",Married,4,LIPA,Facebook Ads,OFW Land base,pricewaterhousecoopers uae,Deferred Cash,43,"PHP 78,500",CALISTA END
+04/22/2025 20:00:09,04/22/2025,Client 114,37,"PHP 29,000",Single,,BATULAO,Referral,Locally Employed,Accenture philippines,10-90 Bank Financing,,,CALISTA MID
+04/24/2025 09:52:23,04/24/2025,Client 115,43,"PHP 182,000",Married,7,GEN TRI,Facebook Ads,OFW Sea Base,carnival cruise line,20-80 Pagibig Financing,41,"PHP 131,000",CALISTA END
+04/25/2025 09:51:38,04/25/2025,Client 116,33,"PHP 136,500",Single,,BATULAO,Facebook Ads,Locally Employed,bdo UNIBANK,Cash,,,CALISTA END
+04/25/2025 17:24:40,04/25/2025,Client 117,30,"PHP 144,500",Single,,BATULAO,Facebook Ads,Locally Employed,Meralco,20-80 Pagibig Financing,,,CALISTA END
+04/25/2025 13:44:45,04/25/2025,Client 118,47,"PHP 198,500",Married,6,LIPA,Facebook Ads,OFW Land base,Aster dm healthcare,20-80 Pagibig Financing,44,"PHP 230,500",CALISTA END
+04/25/2025 20:34:54,04/25/2025,Client 119,43,"PHP 45,500",Married,4,BATULAO,Broker/Agent,Self Employed/ Business Owner,tricycle operator,20-80 Pagibig Financing,47,"PHP 55,500",CALISTA MID
+05/05/2025 12:22:33,05/05/2025,Client 120,26,"PHP 80,000",Married,6,BATULAO,Facebook Ads,OFW Land base,Qatar petroleum,20-80 Pagibig Financing,31,"PHP 51,000",CALISTA END
+05/07/2025 18:38:12,05/07/2025,Client 121,47,"PHP 159,500",Married,3,MAGALANG EAST,Referral,OFW Land base,Pricewaterhousecoopers Uae,Deferred Cash,50,"PHP 110,500",CALISTA END
+05/07/2025 15:42:49,05/07/2025,Client 122,39,"PHP 129,000",Single,,BALIWAG,Referral,Self Employed/ Business Owner,Own accounting practice,Cash,,,CALISTA END
+05/10/2025 08:58:25,05/10/2025,Client 123,27,"PHP 133,000",Married,7,GEN TRI,Facebook Ads,OFW Land base,Four seasons dubai,10-90 Bank Financing,22,"PHP 78,500",CALISTA END
+05/10/2025 12:11:04,05/10/2025,Client 124,51,"PHP 131,500",Widow,3,LIPA,Broker/Agent,Self Employed/ Business Owner,event catering Entrepreneur,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+05/12/2025 19:40:09,05/12/2025,Client 125,30,"PHP 192,500",Married,2,STO. TOMAS,Facebook Ads,OFW Land base,Kuwait Oil company,20-80 Pagibig Financing,35,"PHP 209,000",CALISTA END
+05/12/2025 18:11:55,05/12/2025,Client 126,35,"PHP 86,000",Married,2,MAGALANG EAST,Facebook Ads,Locally Employed,San Miguel Corporation,Cash,40,"PHP 79,500",CALISTA END
+05/14/2025 20:01:26,05/14/2025,Client 127,40,"PHP 140,500",Married,7,PANDI EXPANSION,Broker/Agent,Self Employed/ Business Owner,Sari-sari store,Cash,35,"PHP 136,000",CALISTA END
+05/16/2025 08:40:34,05/16/2025,Client 128,27,"PHP 44,000",Married,3,BALIWAG,Referral,Locally Employed,philippine general hospital,10-90 Bank Financing,26,"PHP 28,000",CALISTA MID
+05/17/2025 09:18:25,05/17/2025,Client 129,39,"PHP 225,000",Single,,LIPA,Referral,OFW Land base,sohar aluminum,10-90 Bank Financing,,,CALISTA END
+05/18/2025 15:44:50,05/18/2025,Client 130,39,"PHP 103,000",Single,N/a,SAN PABLO EAST,Broker/Agent,OFW Land base,prosegur uae,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+05/21/2025 09:42:14,05/21/2025,Client 131,39,"PHP 75,000",Married,4,BALIWAG,Facebook Ads,Self Employed/ Business Owner,own business operations,20-80 Pagibig Financing,34,"PHP 40,500",CALISTA END
+05/22/2025 18:46:56,05/22/2025,Client 132,42,"PHP 132,500",Married,2,CALAMBA,Facebook Ads,OFW Land base,aster dm healthcare,10-90 Bank Financing,40,"PHP 125,000",CALISTA END
+05/30/2025 09:44:04,05/30/2025,Client 133,45,"PHP 118,500",Single,,LIPA,Facebook Ads,Locally Employed,land bank of the philippines,20-80 Pagibig Financing,,,CALISTA END
+05/31/2025 19:33:24,05/31/2025,Client 134,40,"PHP 170,000",Married,3,BATULAO,Referral,OFW Land base,Enoc,20-80 Pagibig Financing,42,"PHP 93,000",CALISTA END
+05/31/2025 17:52:22,05/31/2025,Client 135,48,"PHP 43,000",Single,N/a,BATULAO,Referral,OFW Sea Base,maersk line,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+06/10/2025 11:22:53,06/10/2025,Client 136,33,"PHP 64,500",Married,2,MAGALANG EAST,Referral,OFW Land base,samsung hq seoul,10-90 Bank Financing,31,"PHP 38,500",CALISTA END
+06/11/2025 11:07:32,06/11/2025,Client 137,39,"PHP 60,500",Single,,STO. TOMAS,Facebook Ads,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,,,CALISTA MID
+06/13/2025 13:43:23,06/13/2025,Client 138,45,"PHP 250,500",Single,N/a,BALIWAG,Referral,Locally Employed,San miguel corporation,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+06/13/2025 19:52:56,06/13/2025,Client 139,37,"PHP 234,000",Married,5,CALAMBA,Referral,OFW Sea Base,msc cruises,10-90 Bank Financing,37,"PHP 130,000",CALISTA END
+06/18/2025 12:45:11,06/18/2025,Client 140,54,"PHP 27,500",Single,,IMPRESSIONS HERMOSA,Broker/Agent,Self Employed/ Business Owner,own accounting practice,20-80 Pagibig Financing,,,CALISTA MID
+06/18/2025 20:27:10,06/18/2025,Client 141,55,"PHP 249,000",Married,4,LIPA,Referral,OFW Land base,HYUNDAI engineering,20-80 Pagibig Financing,58,"PHP 159,000",CALISTA END
+06/28/2025 17:39:48,06/28/2025,Client 142,29,"PHP 195,000",Married,5,MAGALANG EAST,Broker/Agent,OFW Land base,samsung hq seoul,20-80 Pagibig Financing,34,"PHP 247,500",CALISTA END
+07/04/2025 10:45:27,07/04/2025,Client 143,47,"PHP 184,000",Married,7,BATULAO,Referral,Locally Employed,Pldt inc.,20-80 Pagibig Financing,43,"PHP 201,500",CALISTA END
+07/06/2025 16:50:42,07/06/2025,Client 144,55,"PHP 25,000",Single,N/a,STO. TOMAS,Facebook Ads,Locally Employed,Meralco,Cash,N/a,N/a,CALISTA MID
+07/11/2025 20:03:46,07/11/2025,Client 145,32,"PHP 242,500",Single,,LIPA,Facebook Ads,OFW Land base,Jumeirah group,10-90 Bank Financing,,,CALISTA END
+07/13/2025 19:45:55,07/13/2025,Client 146,38,"PHP 26,000",Widow,,BATULAO,Facebook Ads,Locally Employed,holcim philippines,Cash,,,CALISTA MID
+07/14/2025 18:13:56,07/14/2025,Client 147,26,"PHP 58,500",Married,4,CALAMBA,Facebook Ads,OFW Land base,al futtaim Group,20-80 Pagibig Financing,23,"PHP 55,000",CALISTA END
+07/18/2025 14:51:06,07/18/2025,Client 148,43,"PHP 102,000",Single,N/a,BATULAO,Facebook Ads,OFW Land base,consolidated contractors,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+07/21/2025 08:51:21,07/21/2025,Client 149,44,"PHP 47,500",Single,,LIPA,Facebook Ads,Self Employed/ Business Owner,family agricultural business,20-80 Pagibig Financing,,,CALISTA MID
+07/21/2025 12:14:52,07/21/2025,Client 150,39,"PHP 141,000",Married,3,GEN TRI,Facebook Ads,Self Employed/ Business Owner,freelance Services,20-80 Pagibig Financing,40,"PHP 89,500",CALISTA END
+07/22/2025 12:57:03,07/22/2025,Client 151,42,"PHP 37,000",Married,4,MAGALANG EAST,Broker/Agent,OFW Sea Base,Msc cruises,10-90 Bank Financing,46,"PHP 36,500",CALISTA MID
+07/23/2025 11:07:41,07/23/2025,Client 152,47,"PHP 49,500",Single,N/a,PANDI EXPANSION,Facebook Ads,OFW Land base,consolidated contractors,Deferred Cash,N/a,N/a,CALISTA MID
+07/25/2025 15:17:05,07/25/2025,Client 153,32,"PHP 170,500",Single,,PANDI EXPANSION,Facebook Ads,OFW Land base,enoc,20-80 Pagibig Financing,,,CALISTA END
+07/26/2025 14:10:02,07/26/2025,Client 154,51,"PHP 193,500",Married,4,CALAMBA,Facebook Ads,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,46,"PHP 235,000",CALISTA END
+07/27/2025 09:55:11,07/27/2025,Client 155,49,"PHP 230,000",Single,,IMPRESSIONS HERMOSA,Facebook Ads,OFW Land base,Adnoc,Deferred Cash,,,CALISTA END
+07/30/2025 17:37:35,07/30/2025,Client 156,46,"PHP 205,500",Single,N/a,BATULAO,Facebook Ads,OFW Land base,consolidated contractors,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+07/31/2025 08:28:59,07/31/2025,Client 157,53,"PHP 198,000",Single,N/a,LIPA,Facebook Ads,Self Employed/ Business Owner,online seller,10-90 Bank Financing,N/a,N/a,CALISTA END
+08/02/2025 08:04:04,08/02/2025,Client 158,36,"PHP 69,500",Married,3,MAGALANG EAST,Referral,Locally Employed,asian hospital,20-80 Pagibig Financing,33,"PHP 76,000",CALISTA END
+08/02/2025 13:51:59,08/02/2025,Client 159,50,"PHP 59,000",Married,7,BATULAO,Facebook Ads,OFW Land base,samsung hq seoul,10-90 Bank Financing,52,"PHP 60,000",CALISTA END
+08/03/2025 17:00:25,08/03/2025,Client 160,55,"PHP 133,000",Married,4,BATULAO,Referral,Locally Employed,globe telecom,Cash,50,"PHP 91,000",CALISTA END
+08/10/2025 18:02:39,08/10/2025,Client 161,49,"PHP 93,500",Married,7,MAGALANG EAST,Facebook Ads,Self Employed/ Business Owner,FAMILY catering SERVICES,10-90 Bank Financing,45,"PHP 105,500",CALISTA END
+08/12/2025 18:25:11,08/12/2025,Client 162,58,"PHP 172,500",Married,9,BALIWAG,Facebook Ads,Self Employed/ Business Owner,online seller,Cash,62,"PHP 148,000",UNNA CORNER
+08/12/2025 12:14:01,08/12/2025,Client 163,33,"PHP 227,000",Widow,,STO. TOMAS,Broker/Agent,OFW Land base,al futtaim group,20-80 Pagibig Financing,,,CALISTA END
+08/13/2025 09:49:00,08/13/2025,Client 164,32,"PHP 105,000",Married,7,PANDI EXPANSION,Broker/Agent,Locally Employed,Philippine general hospital,10-90 Bank Financing,29,"PHP 126,000",CALISTA END
+08/14/2025 13:40:40,08/14/2025,Client 165,27,"PHP 60,500",Married,2,NAIC,Broker/Agent,OFW Land base,samsung c&t (saudi),20-80 Pagibig Financing,29,"PHP 48,500",CALISTA END
+08/16/2025 17:08:04,08/16/2025,Client 166,55,"PHP 35,000",Married,6,LIPA,Facebook Ads,Self Employed/ Business Owner,jeepney operator,10-90 Bank Financing,59,"PHP 19,000",CALISTA MID
+08/16/2025 15:58:30,08/16/2025,Client 167,47,"PHP 187,500",Married,9,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,20-80 Pagibig Financing,42,"PHP 139,000",UNNA CORNER
+08/21/2025 14:15:20,08/21/2025,Client 168,53,"PHP 190,500",Widow,4,IMPRESSIONS HERMOSA,Facebook Ads,Self Employed/ Business Owner,Independent contractor,20-80 Pagibig Financing,,,CALISTA END
+08/21/2025 20:42:53,08/21/2025,Client 169,36,"PHP 166,500",Married,3,BATULAO,Broker/Agent,OFW Land base,jumeirah group,20-80 Pagibig Financing,31,"PHP 200,500",CALISTA END
+08/22/2025 11:58:50,08/22/2025,Client 170,36,"PHP 85,500",Married,6,PANDI EXPANSION,Broker/Agent,OFW Sea Base,carnival cruise line,Deferred Cash,35,"PHP 62,500",CALISTA END
+08/27/2025 18:57:29,08/27/2025,Client 171,31,"PHP 45,500",Married,7,MAGALANG EAST,Broker/Agent,OFW Land base,petrofac,Deferred Cash,32,"PHP 52,000",CALISTA MID
+08/28/2025 10:04:30,08/28/2025,Client 172,51,"PHP 102,500",Married,3,GEN TRI,Facebook Ads,OFW Land base,qatar Petroleum,Deferred Cash,51,"PHP 64,500",CALISTA END
+08/29/2025 19:51:42,08/29/2025,Client 173,29,"PHP 93,500",Married,3,BATULAO,Other:,Locally Employed,jollibee foods corp,10-90 Bank Financing,29,"PHP 110,000",CALISTA END
+08/30/2025 18:03:43,08/30/2025,Client 174,36,"PHP 352,000",Married,7,BALIWAG,Facebook Ads,OFW Land base,hyundai engineering korea,Deferred Cash,36,"PHP 403,000",UNNA CORNER
+08/30/2025 08:48:19,08/30/2025,Client 175,26,"PHP 52,000",Married,5,LIPA,Facebook Ads,OFW Land base,Qatar petroleum,20-80 Pagibig Financing,27,"PHP 60,000",CALISTA END
+09/01/2025 10:39:22,09/01/2025,Client 176,39,"PHP 89,000",Married,4,IMPRESSIONS HERMOSA,Referral,Self Employed/ Business Owner,own accounting practice,20-80 Pagibig Financing,37,"PHP 83,500",CALISTA END
+09/16/2025 17:14:04,09/16/2025,Client 177,34,"PHP 216,000",Married,9,BALIWAG,Referral,Locally Employed,the medical city,20-80 Pagibig Financing,39,"PHP 111,000",UNNA CORNER
+09/17/2025 12:33:25,09/17/2025,Client 178,46,"PHP 68,000",Married,7,MAGALANG EAST,Facebook Ads,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,47,"PHP 57,000",CALISTA END
+09/20/2025 17:54:11,09/20/2025,Client 179,29,"PHP 95,500",Married,6,LIPA,Referral,OFW Sea Base,carnival cruise line,20-80 Pagibig Financing,27,"PHP 61,000",CALISTA END
+09/28/2025 18:23:35,09/28/2025,Client 180,41,"PHP 126,000",Married,3,PANDI EXPANSION,Referral,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,36,"PHP 84,500",CALISTA END
+09/30/2025 11:18:07,09/30/2025,Client 181,52,"PHP 91,000",Single,N/a,LIPA,Facebook Ads,OFW Sea Base,Maersk line,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+10/01/2025 18:03:15,10/01/2025,Client 182,38,"PHP 166,500",Widow,2,BALIWAG,Facebook Ads,Locally Employed,ASIAN hospital,Cash,,,CALISTA END
+10/02/2025 15:44:35,10/02/2025,Client 183,48,"PHP 60,000",Married,7,MAGALANG EAST,Facebook Ads,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,52,"PHP 34,500",CALISTA MID
+10/03/2025 18:52:28,10/03/2025,Client 184,27,"PHP 100,000",Single,,LIPA,Referral,OFW Land base,Emirates airlines,20-80 Pagibig Financing,,,CALISTA MID
+10/04/2025 20:42:00,10/04/2025,Client 185,50,"PHP 222,000",Widow,,IMPRESSIONS HERMOSA,Facebook Ads,OFW Land base,emaar properties,20-80 Pagibig Financing,,,CALISTA END
+10/07/2025 08:04:47,10/07/2025,Client 186,28,"PHP 30,500",Married,4,BALIWAG,Broker/Agent,OFW Land base,PRICEWATERHOUSECOOPERS uae,Deferred Cash,26,"PHP 18,500",CALISTA MID
+10/10/2025 20:38:10,10/10/2025,Client 187,44,"PHP 173,000",Married,2,GAPAN,Facebook Ads,OFW Land base,samsung hq seoul,10-90 Bank Financing,49,"PHP 128,000",CALISTA END
+10/10/2025 12:42:28,10/10/2025,Client 188,52,"PHP 38,000",Single,,STO. TOMAS,Facebook Ads,OFW Land base,Prosegur uae,20-80 Pagibig Financing,,,CALISTA MID
+10/10/2025 20:48:36,10/10/2025,Client 189,32,"PHP 173,000",Married,3,TAYABAS,Referral,OFW Land base,Samsung c&t (saudi),20-80 Pagibig Financing,36,"PHP 192,500",CALISTA END
+10/11/2025 09:18:39,10/11/2025,Client 190,44,"PHP 27,500",Single,N/a,NAIC,Facebook Ads,Locally Employed,accenture philippines,10-90 Bank Financing,N/a,N/a,CALISTA MID
+10/19/2025 12:09:01,10/19/2025,Client 191,49,"PHP 18,000",Married,2,BATULAO,Broker/Agent,Locally Employed,bureau of internal revenue,20-80 Pagibig Financing,54,"PHP 12,000",CALISTA MID
+10/22/2025 10:40:45,10/22/2025,Client 192,35,"PHP 187,500",Single,,GEN TRI,Facebook Ads,OFW Land base,kuwait oil company,10-90 Bank Financing,,,UNNA CORNER
+10/22/2025 16:37:49,10/22/2025,Client 193,46,"PHP 310,500",Married,6,BALIWAG,Facebook Ads,OFW Land base,aramco,20-80 Pagibig Financing,42,"PHP 196,500",UNNA CORNER
+10/24/2025 15:49:37,10/24/2025,Client 194,27,"PHP 114,500",Single,N/a,SIGHTS CALAUAN,Referral,OFW Land base,enoc,10-90 Bank Financing,N/a,N/a,CALISTA END
+11/03/2025 10:48:28,11/03/2025,Client 195,46,"PHP 121,500",Married,5,LIPA,Referral,OFW Land base,aster dm healthcare,20-80 Pagibig Financing,47,"PHP 73,500",CALISTA END
+11/04/2025 11:28:15,11/04/2025,Client 196,41,"PHP 228,000",Married,4,BATULAO,Other:,OFW Sea Base,Maersk line,20-80 Pagibig Financing,37,"PHP 181,500",CALISTA END
+11/06/2025 12:02:37,11/06/2025,Client 197,46,"PHP 110,000",Single,,GEN TRI,Referral,OFW Land base,enoc,10-90 Bank Financing,,,CALISTA MID
+11/07/2025 12:11:52,11/07/2025,Client 198,34,"PHP 114,500",Married,2,LIPA,Facebook Ads,OFW Land base,sohar aluminum,Deferred Cash,38,"PHP 101,500",CALISTA END
+11/10/2025 20:42:03,11/10/2025,Client 199,25,"PHP 21,000",Married,3,BATULAO,Facebook Ads,Self Employed/ Business Owner,Family agricultural business,10-90 Bank Financing,26,"PHP 21,000",CALISTA MID
+11/11/2025 12:42:43,11/11/2025,Client 200,32,"PHP 61,000",Single,N/a,PANDI EXPANSION,Broker/Agent,Self Employed/ Business Owner,Own accounting practice,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+11/12/2025 19:54:48,11/12/2025,Client 201,52,"PHP 58,500",Married,6,PANDI EXPANSION,Facebook Ads,OFW Sea Base,Maersk line,10-90 Bank Financing,54,"PHP 64,000",CALISTA END
+11/13/2025 20:26:48,11/13/2025,Client 202,38,"PHP 115,500",Married,7,LIPA,Referral,OFW Sea Base,Evergreen marine,20-80 Pagibig Financing,35,"PHP 135,500",CALISTA END
+11/15/2025 16:20:44,11/15/2025,Client 203,55,"PHP 116,000",Married,4,LIPA,Facebook Ads,Self Employed/ Business Owner,online seller,20-80 Pagibig Financing,52,"PHP 118,500",CALISTA END
+11/16/2025 10:57:24,11/16/2025,Client 204,38,"PHP 236,000",Married,3,CALAMBA,Facebook Ads,OFW Land base,aster dm healthcare,20-80 Pagibig Financing,41,"PHP 291,000",CALISTA END
+11/16/2025 09:28:08,11/16/2025,Client 205,35,"PHP 219,500",Married,7,MAGALANG EAST,Other:,OFW Land base,sohar aluminum,20-80 Pagibig Financing,31,"PHP 151,000",CALISTA END
+11/18/2025 15:36:12,11/18/2025,Client 206,31,"PHP 217,000",Single,,LIPA,Referral,OFW Land base,emaar properties,20-80 Pagibig Financing,,,CALISTA END
+11/20/2025 09:49:20,11/20/2025,Client 207,28,"PHP 208,000",Married,5,NAIC,Facebook Ads,Self Employed/ Business Owner,family Catering services,20-80 Pagibig Financing,33,"PHP 221,500",CALISTA END
+11/21/2025 15:51:24,11/21/2025,Client 208,30,"PHP 200,500",Single,N/a,TAYABAS,Facebook Ads,OFW Land base,ASTER dm healthcare,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+11/26/2025 15:13:02,11/26/2025,Client 209,43,"PHP 48,500",Single,,SAN PABLO EAST,Other:,Self Employed/ Business Owner,online Seller,20-80 Pagibig Financing,,,CALISTA MID
+11/28/2025 18:53:29,11/28/2025,Client 210,35,"PHP 135,500",Married,5,NAIC,Broker/Agent,OFW Sea Base,maersk line,20-80 Pagibig Financing,31,"PHP 94,000",CALISTA END
+11/28/2025 20:08:14,11/28/2025,Client 211,43,"PHP 120,500",Married,7,NAIC,Facebook Ads,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,47,"PHP 92,500",CALISTA END
+12/12/2025 11:40:23,12/12/2025,Client 212,51,"PHP 112,000",Married,5,LIPA,Facebook Ads,OFW Land base,enoc,20-80 Pagibig Financing,47,"PHP 127,000",CALISTA END
+12/27/2025 16:37:11,12/27/2025,Client 213,51,"PHP 230,000",Married,5,BALIWAG,Referral,OFW Land base,Emaar properties,20-80 Pagibig Financing,46,"PHP 196,000",UNNA CORNER
+12/30/2025 11:27:30,12/30/2025,Client 214,41,"PHP 190,000",Single,,PANDI EXPANSION,Referral,OFW Sea Base,Maersk line,10-90 Bank Financing,,,CALISTA END
+12/30/2025 16:12:00,12/30/2025,Client 215,41,"PHP 62,000",Widow,2,PANDI EXPANSION,Facebook Ads,OFW Land base,Walmart us,20-80 Pagibig Financing,,,CALISTA MID
+12/31/2025 08:39:12,12/31/2025,Client 216,41,"PHP 53,000",Married,4,CALAMBA,Referral,Locally Employed,sm investments corp,20-80 Pagibig Financing,46,"PHP 39,000",CALISTA MID
+01/05/2026 12:50:35,01/05/2026,Client 217,44,"PHP 184,000",Married,3,SIGHTS CALAUAN,Broker/Agent,OFW Land base,Enoc,20-80 Pagibig Financing,49,"PHP 129,500",CALISTA END
+01/08/2026 09:56:40,01/08/2026,Client 218,46,"PHP 86,500",Married,3,PANDI EXPANSION,Referral,Locally Employed,Asian hospital,20-80 Pagibig Financing,49,"PHP 63,500",CALISTA END
+01/14/2026 09:10:40,01/14/2026,Client 219,46,"PHP 146,000",Married,7,PANDI EXPANSION,Referral,OFW Land base,Aster dm healthcare,10-90 Bank Financing,46,"PHP 86,500",CALISTA END
+01/21/2026 14:32:26,01/21/2026,Client 220,42,"PHP 194,000",Married,6,CALAMBA,Facebook Ads,OFW Land base,sohar Aluminum,20-80 Pagibig Financing,43,"PHP 119,000",CALISTA END
+01/23/2026 08:59:44,01/23/2026,Client 221,46,"PHP 37,500",Single,,STO. TOMAS,Broker/Agent,Locally Employed,ayala land construction,10-90 Bank Financing,,,CALISTA MID
+01/24/2026 16:06:55,01/24/2026,Client 222,25,"PHP 34,500",Single,,MAGALANG EAST,Facebook Ads,Locally Employed,meralco,10-90 Bank Financing,,,CALISTA MID
+02/07/2026 16:45:21,02/07/2026,Client 223,32,"PHP 36,000",Single,N/a,BALANGA,Facebook Ads,OFW Land base,petrofac,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+02/10/2026 09:33:05,02/10/2026,Client 224,42,"PHP 207,500",Single,,LIPA,Other:,OFW Land base,Enoc,10-90 Bank Financing,,,CALISTA END
+02/11/2026 16:19:53,02/11/2026,Client 225,29,"PHP 18,500",Widow,5,PANDI EXPANSION,Referral,Self Employed/ Business Owner,independent contractor,20-80 Pagibig Financing,,,CALISTA MID
+02/12/2026 14:05:37,02/12/2026,Client 226,44,"PHP 72,500",Single,N/a,BATULAO,Other:,Locally Employed,Philippine General Hospital,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+02/14/2026 18:20:32,02/14/2026,Client 227,39,"PHP 179,500",Widow,4,STO. TOMAS,Facebook Ads,OFW Land base,adnoc,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+02/15/2026 18:54:46,02/15/2026,Client 228,32,"PHP 59,000",Married,6,MAGALANG EAST,Referral,Locally Employed,cebu pacific,10-90 Bank Financing,36,"PHP 33,000",CALISTA MID
+02/20/2026 08:22:40,02/20/2026,Client 229,49,"PHP 42,000",Married,4,GEN TRI,Referral,OFW Sea Base,Philippine Airlines (int'l),20-80 Pagibig Financing,44,"PHP 33,000",CALISTA MID
+02/24/2026 20:33:41,02/24/2026,Client 230,50,"PHP 70,000",Married,7,MAGALANG EAST,Facebook Ads,Self Employed/ Business Owner,own Accounting Practice,20-80 Pagibig Financing,51,"PHP 48,500",CALISTA END
+02/24/2026 15:20:54,02/24/2026,Client 231,52,"PHP 34,500",Married,6,BALIWAG,Broker/Agent,OFW Land base,jumeirah group,10-90 Bank Financing,48,"PHP 18,000",CALISTA MID
+02/26/2026 19:46:53,02/26/2026,Client 232,35,"PHP 166,500",Married,7,BALIWAG,Referral,OFW Land base,KUWAIT OIL COMPANY,20-80 Pagibig Financing,33,"PHP 112,500",UNNA CORNER
+02/28/2026 20:18:18,02/28/2026,Client 233,41,"PHP 139,500",Married,6,MAGALANG EAST,Facebook Ads,OFW Sea Base,MSC cruises,Deferred Cash,40,"PHP 154,500",CALISTA END
+03/03/2026 09:54:25,03/03/2026,Client 234,51,"PHP 104,500",Married,5,LIPA,Facebook Ads,OFW Land base,Emaar properties,20-80 Pagibig Financing,56,"PHP 52,500",CALISTA END
+03/04/2026 08:43:33,03/04/2026,Client 235,49,"PHP 164,500",Single,N/a,MAGALANG EAST,Facebook Ads,OFW Land base,enoc,Deferred Cash,N/a,N/a,CALISTA END
+03/04/2026 11:08:56,03/04/2026,Client 236,33,"PHP 261,500",Married,4,LIPA,Facebook Ads,Self Employed/ Business Owner,Tricycle operator,20-80 Pagibig Financing,29,"PHP 275,500",CALISTA END
+03/09/2026 19:51:39,03/09/2026,Client 237,32,"PHP 146,500",Single,N/a,LIPA,Facebook Ads,OFW Land base,aster dm healthcare,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+03/14/2026 20:36:23,03/14/2026,Client 238,28,"PHP 131,500",Single,,NAIC,Facebook Ads,OFW Land base,Qatar petroleum,20-80 Pagibig Financing,,,CALISTA END
+03/14/2026 09:02:01,03/14/2026,Client 239,32,"PHP 204,000",Single,,NAIC,Referral,OFW Sea Base,Maersk line,20-80 Pagibig Financing,,,CALISTA END
+03/16/2026 16:46:24,03/16/2026,Client 240,32,"PHP 292,500",Single,,LIPA,Facebook Ads,Self Employed/ Business Owner,family agricultural Business,20-80 Pagibig Financing,,,CALISTA END
+03/30/2026 08:57:50,03/30/2026,Client 241,36,"PHP 124,000",Married,3,STO. TOMAS,Referral,Locally Employed,land bank of the PHILIPPINES,20-80 Pagibig Financing,39,"PHP 151,500",CALISTA END
+04/13/2026 08:34:38,04/13/2026,Client 242,37,"PHP 116,500",Single,N/a,BALIWAG,Facebook Ads,Locally Employed,Universal robina corp,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+04/21/2026 14:10:00,04/21/2026,Client 243,25,"PHP 120,500",Married,3,PANDI EXPANSION,Other:,OFW Sea Base,Evergreen Marine,20-80 Pagibig Financing,25,"PHP 138,000",CALISTA END
+05/05/2026 18:23:19,05/05/2026,Client 244,29,"PHP 184,500",Widow,N/a,IMPRESSIONS HERMOSA,Facebook Ads,OFW Land base,Al futtaim group,10-90 Bank Financing,N/a,N/a,CALISTA END
+05/05/2026 19:41:31,05/05/2026,Client 245,39,"PHP 83,500",Single,N/a,BATULAO,Broker/Agent,OFW Land base,Al rajhi bank,10-90 Bank Financing,N/a,N/a,CALISTA MID
+05/12/2026 14:55:00,05/12/2026,Client 246,49,"PHP 19,000",Married,6,LIPA,Broker/Agent,Self Employed/ Business Owner,tricycle operator,10-90 Bank Financing,44,"PHP 13,000",CALISTA MID
+05/15/2026 08:58:25,05/15/2026,Client 247,41,"PHP 40,000",Married,5,LIPA,Facebook Ads,OFW Land base,Adnoc,10-90 Bank Financing,45,"PHP 23,500",CALISTA MID
+05/16/2026 12:46:13,05/16/2026,Client 248,34,"PHP 69,500",Single,,SAN PABLO EAST,Facebook Ads,Locally Employed,San miguel corporation,20-80 Pagibig Financing,,,CALISTA MID
+05/17/2026 11:49:05,05/17/2026,Client 249,50,"PHP 139,500",Married,2,PANDI EXPANSION,Facebook Ads,OFW Land base,hyundai Engineering Korea,10-90 Bank Financing,54,"PHP 97,000",CALISTA END
+05/19/2026 20:57:20,05/19/2026,Client 250,40,"PHP 44,000",Married,2,PANDI EXPANSION,Facebook Ads,OFW Sea Base,Carnival cruise line,10-90 Bank Financing,45,"PHP 37,500",CALISTA MID
+05/22/2026 13:09:07,05/22/2026,Client 251,27,"PHP 51,000",Widow,,LIPA,Facebook Ads,OFW Land base,japan tobacco int'l,20-80 Pagibig Financing,,,CALISTA MID
+05/22/2026 08:51:53,05/22/2026,Client 252,35,"PHP 138,500",Single,N/a,BATULAO,Facebook Ads,OFW Sea Base,maersk line,Deferred Cash,N/a,N/a,CALISTA END
+05/29/2026 16:45:50,05/29/2026,Client 253,30,"PHP 245,000",Widow,,GEN TRI,Facebook Ads,OFW Land base,enoc,20-80 Pagibig Financing,,,CALISTA END
+05/31/2026 18:54:44,05/31/2026,Client 254,44,"PHP 217,000",Widow,,LIPA,Facebook Ads,Self Employed/ Business Owner,tricycle operator,20-80 Pagibig Financing,,,CALISTA END
+06/07/2026 16:17:12,06/07/2026,Client 255,45,"PHP 32,000",Married,2,LIPA,Broker/Agent,OFW Sea Base,msc cruises,20-80 Pagibig Financing,46,"PHP 19,000",CALISTA MID
+06/09/2026 11:51:16,06/09/2026,Client 256,50,"PHP 101,000",Single,,LIPA,Broker/Agent,OFW Land base,kuwait oil company,Deferred Cash,,,CALISTA MID
+06/09/2026 16:27:10,06/09/2026,Client 257,36,"PHP 186,000",Widow,,BATULAO,Broker/Agent,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,,,CALISTA END
+06/09/2026 15:53:33,06/09/2026,Client 258,55,"PHP 148,500",Single,N/a,LIPA,Referral,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+06/10/2026 20:11:12,06/10/2026,Client 259,43,"PHP 360,000",Married,5,BALIWAG,Facebook Ads,OFW Land base,Emaar properties,20-80 Pagibig Financing,45,"PHP 303,000",UNNA CORNER
+06/12/2026 18:36:32,06/12/2026,Client 260,62,"PHP 370,000",Single,,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,10-90 Bank Financing,,,UNNA CORNER
+06/13/2026 17:20:36,06/13/2026,Client 261,31,"PHP 70,500",Single,,BATULAO,Referral,Locally Employed,bdo unibank,20-80 Pagibig Financing,,,CALISTA MID
+06/15/2026 17:28:30,06/15/2026,Client 262,37,"PHP 199,000",Married,9,BALIWAG,Facebook Ads,Locally Employed,Cebu pacific,10-90 Bank Financing,35,"PHP 196,000",UNNA CORNER
+06/25/2026 20:21:56,06/25/2026,Client 263,55,"PHP 134,000",Married,3,MAGALANG EAST,Broker/Agent,OFW Sea Base,philippine airlines (int'l),10-90 Bank Financing,51,"PHP 165,000",CALISTA END
+07/05/2026 16:00:46,07/05/2026,Client 264,53,"PHP 40,000",Single,N/a,BALIWAG,Facebook Ads,Self Employed/ Business Owner,family catering services,10-90 Bank Financing,N/a,N/a,CALISTA MID
+07/07/2026 15:59:12,07/07/2026,Client 265,50,"PHP 249,000",Single,,CALAMBA,Facebook Ads,OFW Land base,Japan tobacco int'l,10-90 Bank Financing,,,CALISTA END
+07/09/2026 15:25:07,07/09/2026,Client 266,25,"PHP 36,500",Married,7,LIPA,Referral,OFW Land base,al futtaim group,Deferred Cash,22,"PHP 35,500",CALISTA MID
+07/12/2026 08:44:34,07/12/2026,Client 267,53,"PHP 35,500",Married,5,BALIWAG,Referral,Locally Employed,The medical city,20-80 Pagibig Financing,55,"PHP 39,000",CALISTA MID
+07/12/2026 08:02:45,07/12/2026,Client 268,27,"PHP 40,500",Married,6,BALANGA,Referral,OFW Land base,jumeirah group,20-80 Pagibig Financing,31,"PHP 23,000",CALISTA MID
+07/13/2026 15:45:45,07/13/2026,Client 269,53,"PHP 51,000",Married,2,BALIWAG,Facebook Ads,OFW Land base,bechtel middle east,20-80 Pagibig Financing,48,"PHP 48,500",CALISTA END
+07/23/2026 11:43:47,07/23/2026,Client 270,29,"PHP 183,000",Married,5,LIPA,Referral,Self Employed/ Business Owner,Family agricultural Business,20-80 Pagibig Financing,30,"PHP 119,500",CALISTA END
+07/25/2026 14:19:02,07/25/2026,Client 271,41,"PHP 352,000",Married,7,BALIWAG,Facebook Ads,OFW Land base,qatar PETROLEUM,20-80 Pagibig Financing,46,"PHP 340,500",UNNA CORNER
+07/26/2026 16:36:52,07/26/2026,Client 272,42,"PHP 19,000",Married,6,NAIC,Referral,Locally Employed,Universal Robina Corp,20-80 Pagibig Financing,37,"PHP 12,000",CALISTA MID
+07/26/2026 09:55:16,07/26/2026,Client 273,46,"PHP 191,000",Married,5,GEN TRI,Facebook Ads,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,44,"PHP 126,500",CALISTA END
+07/28/2026 11:56:51,07/28/2026,Client 274,55,"PHP 24,500",Married,6,LIPA,Facebook Ads,Locally Employed,department of education,10-90 Bank Financing,50,"PHP 32,000",CALISTA MID
+07/28/2026 10:56:10,07/28/2026,Client 275,25,"PHP 36,000",Single,,MAGALANG EAST,Broker/Agent,Locally Employed,jollibee foods corp,10-90 Bank Financing,,,CALISTA MID
+08/02/2026 13:13:54,08/02/2026,Client 276,50,"PHP 111,500",Single,,PANDI EXPANSION,Facebook Ads,OFW Sea Base,Maersk Line,20-80 Pagibig Financing,,,CALISTA END
+08/09/2026 13:24:24,08/09/2026,Client 277,30,"PHP 23,500",Single,N/a,LIPA,Facebook Ads,Self Employed/ Business Owner,Own accounting practice,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+08/16/2026 16:18:40,08/16/2026,Client 278,29,"PHP 149,500",Married,4,BATULAO,Referral,OFW Sea Base,carnival cruise line,20-80 Pagibig Financing,28,"PHP 194,000",CALISTA END
+08/18/2026 12:23:15,08/18/2026,Client 279,49,"PHP 95,000",Married,6,PANDI EXPANSION,Facebook Ads,Self Employed/ Business Owner,family catering services,10-90 Bank Financing,50,"PHP 55,500",CALISTA END
+08/20/2026 15:51:50,08/20/2026,Client 280,33,"PHP 111,500",Single,,BATULAO,Facebook Ads,Locally Employed,universal robina corp,20-80 Pagibig Financing,,,CALISTA END
+08/21/2026 16:20:56,08/21/2026,Client 281,52,"PHP 246,000",Married,2,LIPA,Facebook Ads,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,53,"PHP 199,000",CALISTA END
+08/21/2026 12:01:28,08/21/2026,Client 282,31,"PHP 162,000",Widow,N/a,GEN TRI,Facebook Ads,OFW Land base,apple inc.,10-90 Bank Financing,N/a,N/a,CALISTA END
+08/21/2026 15:52:25,08/21/2026,Client 283,53,"PHP 54,500",Single,N/a,BALIWAG,Referral,Self Employed/ Business Owner,Family agricultural business,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+08/22/2026 14:44:21,08/22/2026,Client 284,39,"PHP 276,000",Single,,BALIWAG,Facebook Ads,OFW Land base,emaar properties,Deferred Cash,,,UNNA CORNER
+08/26/2026 18:10:55,08/26/2026,Client 285,53,"PHP 133,500",Single,,BATULAO,Referral,Locally Employed,St. Luke's medical Center,20-80 Pagibig Financing,,,CALISTA END
+08/27/2026 09:49:47,08/27/2026,Client 286,46,"PHP 178,500",Married,9,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,45,"PHP 211,000",UNNA CORNER
+09/03/2026 14:17:37,09/03/2026,Client 287,42,"PHP 96,500",Married,7,MAGALANG EAST,Referral,OFW Land base,Sohar Aluminum,20-80 Pagibig Financing,39,"PHP 106,500",CALISTA END
+09/03/2026 13:02:47,09/03/2026,Client 288,33,"PHP 146,500",Widow,N/a,MAGALANG EAST,Referral,OFW Land base,emaar properties,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+09/04/2026 14:38:26,09/04/2026,Client 289,36,"PHP 102,000",Married,2,LIPA,Facebook Ads,Locally Employed,holcim philippines,10-90 Bank Financing,40,"PHP 118,500",CALISTA END
+09/06/2026 13:20:27,09/06/2026,Client 290,37,"PHP 66,000",Single,,BATULAO,Referral,Locally Employed,St. luke's Medical Center,10-90 Bank Financing,,,CALISTA MID
+09/11/2026 12:47:19,09/11/2026,Client 291,50,"PHP 210,500",Widow,4,LIPA,Facebook Ads,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,,,CALISTA END
+09/13/2026 17:28:17,09/13/2026,Client 292,43,"PHP 187,500",Single,,GEN TRI,Facebook Ads,OFW Sea Base,maersk line,20-80 Pagibig Financing,,,UNNA CORNER
+09/21/2026 11:42:23,09/21/2026,Client 293,43,"PHP 26,000",Widow,2,NAIC,Facebook Ads,Locally Employed,ayala land construction,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+09/22/2026 09:01:07,09/22/2026,Client 294,40,"PHP 39,000",Single,N/a,CALAMBA,Facebook Ads,OFW Land base,prosegur uae,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+09/23/2026 11:14:49,09/23/2026,Client 295,60,"PHP 132,000",Married,9,GEN TRI,Broker/Agent,OFW Land base,al futtaim group,Deferred Cash,62,"PHP 89,000",UNNA CORNER
+09/24/2026 08:37:25,09/24/2026,Client 296,43,"PHP 149,000",Single,N/a,STO. TOMAS,Referral,Locally Employed,san miguel corporation,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+09/24/2026 14:58:48,09/24/2026,Client 297,44,"PHP 128,500",Single,N/a,BALIWAG,Broker/Agent,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+10/01/2026 15:27:24,10/01/2026,Client 298,43,"PHP 116,000",Married,6,CALAMBA,Facebook Ads,Self Employed/ Business Owner,own accounting practice,20-80 Pagibig Financing,46,"PHP 81,500",CALISTA END
+10/01/2026 15:17:23,10/01/2026,Client 299,38,"PHP 111,500",Single,,MAGALANG EAST,Facebook Ads,OFW Land base,Al rajhi bank,20-80 Pagibig Financing,,,CALISTA END
+10/02/2026 10:32:57,10/02/2026,Client 300,47,"PHP 208,500",Widow,,IMPRESSIONS HERMOSA,Facebook Ads,OFW Sea Base,Maersk line,Deferred Cash,,,CALISTA END
+10/02/2026 15:30:15,10/02/2026,Client 301,37,"PHP 68,000",Single,,STO. TOMAS,Referral,OFW Land base,Samsung c&t (saudi),20-80 Pagibig Financing,,,CALISTA MID
+10/10/2026 10:45:58,10/10/2026,Client 302,46,"PHP 169,000",Single,N/a,PANDI EXPANSION,Facebook Ads,OFW Land base,walmart us,Deferred Cash,N/a,N/a,CALISTA END
+10/12/2026 08:39:49,10/12/2026,Client 303,40,"PHP 27,000",Married,4,CALAMBA,Referral,Self Employed/ Business Owner,online seller,10-90 Bank Financing,40,"PHP 24,500",CALISTA MID
+10/15/2026 14:08:11,10/15/2026,Client 304,47,"PHP 214,000",Single,N/a,PANDI EXPANSION,Facebook Ads,OFW Land base,enoc,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+10/17/2026 17:32:07,10/17/2026,Client 305,33,"PHP 139,000",Single,,PANDI EXPANSION,Broker/Agent,OFW Land base,jumeirah group,20-80 Pagibig Financing,,,CALISTA END
+10/18/2026 17:12:41,10/18/2026,Client 306,50,"PHP 72,500",Married,7,MAGALANG EAST,Other:,OFW Land base,Samsung c&t (saudi),20-80 Pagibig Financing,54,"PHP 66,000",CALISTA END
+10/19/2026 16:49:34,10/19/2026,Client 307,48,"PHP 179,000",Single,,MAGALANG EAST,Facebook Ads,OFW Land base,emaar Properties,20-80 Pagibig Financing,,,CALISTA END
+10/19/2026 17:19:42,10/19/2026,Client 308,55,"PHP 203,000",Married,6,BALIWAG,Referral,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,56,"PHP 229,000",UNNA CORNER
+10/20/2026 12:27:36,10/20/2026,Client 309,32,"PHP 223,000",Single,,LIPA,Referral,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,,,CALISTA END
+10/24/2026 08:55:00,10/24/2026,Client 310,40,"PHP 18,000",Married,2,MAGALANG EAST,Broker/Agent,Locally Employed,metrobank,20-80 Pagibig Financing,40,"PHP 19,500",CALISTA MID
+10/24/2026 08:42:20,10/24/2026,Client 311,53,"PHP 378,000",Married,6,BALIWAG,Facebook Ads,Self Employed/ Business Owner,family agricultural business,20-80 Pagibig Financing,57,"PHP 429,000",UNNA CORNER
+10/25/2026 17:46:58,10/25/2026,Client 312,45,"PHP 30,000",Married,5,BATULAO,Facebook Ads,OFW Sea Base,philippine airlines (int'l),10-90 Bank Financing,46,"PHP 17,000",CALISTA MID
+10/26/2026 17:12:53,10/26/2026,Client 313,48,"PHP 267,000",Single,,BATULAO,Broker/Agent,Self Employed/ Business Owner,sari-sari store,10-90 Bank Financing,,,CALISTA END
+10/26/2026 19:44:28,10/26/2026,Client 314,50,"PHP 33,000",Married,3,BATULAO,Facebook Ads,OFW Land base,hyundai engineering korea,20-80 Pagibig Financing,46,"PHP 16,500",CALISTA MID
+10/27/2026 20:27:13,10/27/2026,Client 315,44,"PHP 55,500",Married,5,LIPA,Referral,OFW Land base,samsung hq seoul,10-90 Bank Financing,42,"PHP 41,000",CALISTA MID
+10/28/2026 17:15:21,10/28/2026,Client 316,33,"PHP 107,000",Single,,LIPA,Referral,OFW Land base,samsung c&t (saudi),20-80 Pagibig Financing,,,CALISTA END
+10/29/2026 14:21:05,10/29/2026,Client 317,47,"PHP 168,500",Single,N/a,MAGALANG EAST,Facebook Ads,OFW Land base,Al Rajhi bank,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+10/31/2026 16:04:52,10/31/2026,Client 318,31,"PHP 243,500",Single,,GEN TRI,Other:,OFW Land base,al Rajhi bank,10-90 Bank Financing,,,CALISTA END
+11/01/2026 18:07:40,11/01/2026,Client 319,37,"PHP 66,500",Married,2,BALIWAG,Facebook Ads,OFW Land base,Sohar Aluminum,10-90 Bank Financing,36,"PHP 42,500",CALISTA END
+11/07/2026 14:55:09,11/07/2026,Client 320,37,"PHP 47,500",Married,7,BATULAO,Facebook Ads,OFW Land base,walmart us,20-80 Pagibig Financing,42,"PHP 48,000",CALISTA MID
+11/21/2026 17:48:24,11/21/2026,Client 321,43,"PHP 32,500",Single,,PANDI EXPANSION,Broker/Agent,OFW Sea Base,Msc cruises,Deferred Cash,,,CALISTA MID
+11/23/2026 19:17:17,11/23/2026,Client 322,39,"PHP 49,500",Single,N/a,LIPA,Facebook Ads,OFW Land base,Consolidated contractors,10-90 Bank Financing,N/a,N/a,CALISTA MID
+11/23/2026 20:55:54,11/23/2026,Client 323,47,"PHP 164,000",Single,,CALAMBA,Facebook Ads,OFW Land base,PROSEGUR uae,Deferred Cash,,,CALISTA END
+11/27/2026 09:45:06,11/27/2026,Client 324,40,"PHP 30,500",Married,7,BATULAO,Facebook Ads,OFW Land base,enoc,20-80 Pagibig Financing,38,"PHP 22,500",CALISTA MID
+11/29/2026 13:49:46,11/29/2026,Client 325,49,"PHP 192,500",Single,,CALAMBA,Referral,OFW Sea Base,maersk line,20-80 Pagibig Financing,,,CALISTA END
+11/29/2026 20:34:05,11/29/2026,Client 326,49,"PHP 20,500",Married,4,TAYABAS,Broker/Agent,Locally Employed,Holcim philippines,10-90 Bank Financing,51,"PHP 21,000",CALISTA MID
+12/02/2026 10:44:17,12/02/2026,Client 327,28,"PHP 34,000",Married,6,PANDI EXPANSION,Referral,Locally Employed,armed forces of the philippines,20-80 Pagibig Financing,30,"PHP 31,500",CALISTA MID
+12/02/2026 10:50:59,12/02/2026,Client 328,35,"PHP 72,000",Married,3,BALIWAG,Facebook Ads,Locally Employed,Globe telecom,20-80 Pagibig Financing,33,"PHP 56,000",CALISTA END
+12/04/2026 14:44:47,12/04/2026,Client 329,47,"PHP 233,000",Married,8,BALIWAG,Facebook Ads,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,47,"PHP 247,000",UNNA CORNER
+12/05/2026 14:39:52,12/05/2026,Client 330,46,"PHP 135,000",Single,,LIPA,Referral,Locally Employed,land bank of the philippines,20-80 Pagibig Financing,,,CALISTA END
+12/10/2026 15:36:09,12/10/2026,Client 331,43,"PHP 143,000",Widow,,LIPA,Facebook Ads,OFW Land base,sohar aluminum,20-80 Pagibig Financing,,,CALISTA END
+12/24/2026 16:26:39,12/24/2026,Client 332,54,"PHP 64,500",Married,2,BALIWAG,Facebook Ads,OFW Land base,Consolidated contractors,10-90 Bank Financing,52,"PHP 74,000",CALISTA END
+12/25/2026 20:47:07,12/25/2026,Client 333,45,"PHP 140,000",Single,,BALANGA,Broker/Agent,OFW Land base,Kuwait oil company,10-90 Bank Financing,,,CALISTA END
+12/27/2026 11:33:33,12/27/2026,Client 334,46,"PHP 216,500",Married,7,PANDI EXPANSION,Facebook Ads,OFW Land base,Sohar aluminum,20-80 Pagibig Financing,50,"PHP 182,000",CALISTA END
+12/31/2026 17:38:33,12/31/2026,Client 335,37,"PHP 195,000",Married,6,BALIWAG,Referral,Locally Employed,st. Luke's medical Center,20-80 Pagibig Financing,34,"PHP 192,000",UNNA CORNER
+01/01/2027 15:15:18,01/01/2027,Client 336,42,"PHP 135,500",Single,,GAPAN,Facebook Ads,OFW Land base,enoc,20-80 Pagibig Financing,,,CALISTA END
+01/02/2027 17:42:50,01/02/2027,Client 337,54,"PHP 172,500",Married,7,LIPA,Facebook Ads,OFW Land base,Qatar petroleum,20-80 Pagibig Financing,57,"PHP 203,000",CALISTA END
+01/02/2027 08:29:29,01/02/2027,Client 338,27,"PHP 134,000",Married,6,LIPA,Facebook Ads,OFW Land base,four seasons dubai,20-80 Pagibig Financing,26,"PHP 69,000",CALISTA END
+01/04/2027 15:03:13,01/04/2027,Client 339,32,"PHP 138,500",Single,N/a,STO. TOMAS,Facebook Ads,Locally Employed,department of education,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+01/07/2027 13:47:02,01/07/2027,Client 340,49,"PHP 37,000",Single,,BATULAO,Facebook Ads,Self Employed/ Business Owner,own business operations,20-80 Pagibig Financing,,,CALISTA MID
+01/15/2027 14:35:11,01/15/2027,Client 341,43,"PHP 59,500",Married,6,BATULAO,Broker/Agent,Self Employed/ Business Owner,Own business operations,20-80 Pagibig Financing,40,"PHP 50,500",CALISTA END
+01/16/2027 15:37:40,01/16/2027,Client 342,53,"PHP 104,000",Married,3,PANDI EXPANSION,Facebook Ads,Locally Employed,accenture Philippines,10-90 Bank Financing,56,"PHP 78,500",CALISTA END
+01/18/2027 11:35:21,01/18/2027,Client 343,42,"PHP 36,500",Married,3,PANDI EXPANSION,Facebook Ads,Locally Employed,globe telecom,20-80 Pagibig Financing,42,"PHP 23,500",CALISTA MID
+01/22/2027 20:42:31,01/22/2027,Client 344,63,"PHP 181,500",Married,6,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,59,"PHP 196,500",UNNA CORNER
+01/24/2027 19:57:39,01/24/2027,Client 345,37,"PHP 118,500",Married,3,MAGALANG EAST,Facebook Ads,Locally Employed,AYALA land construction,10-90 Bank Financing,32,"PHP 122,500",CALISTA END
+01/26/2027 16:18:13,01/26/2027,Client 346,29,"PHP 237,500",Married,6,BATULAO,Broker/Agent,Self Employed/ Business Owner,independent contractor,20-80 Pagibig Financing,30,"PHP 156,500",CALISTA END
+01/27/2027 10:07:10,01/27/2027,Client 347,33,"PHP 170,000",Married,6,LIPA,Facebook Ads,OFW Land base,four seasons dubai,20-80 Pagibig Financing,28,"PHP 109,000",CALISTA END
+01/31/2027 09:06:15,01/31/2027,Client 348,51,"PHP 105,500",Single,,LIPA,Broker/Agent,OFW Land base,Bechtel Middle East,10-90 Bank Financing,,,CALISTA END
+01/31/2027 08:21:38,01/31/2027,Client 349,31,"PHP 130,000",Married,2,GEN TRI,Facebook Ads,OFW Land base,sohar Aluminum,10-90 Bank Financing,32,"PHP 109,500",CALISTA END
+02/01/2027 14:36:09,02/01/2027,Client 350,31,"PHP 219,500",Married,6,PANDI EXPANSION,Facebook Ads,OFW Sea Base,philippine airlines (int'l),10-90 Bank Financing,34,"PHP 176,500",CALISTA END
+02/04/2027 13:55:46,02/04/2027,Client 351,47,"PHP 246,500",Single,,SAN PABLO EAST,Facebook Ads,Self Employed/ Business Owner,sari-sari STORE,10-90 Bank Financing,,,CALISTA END
+02/11/2027 09:04:39,02/11/2027,Client 352,49,"PHP 34,500",Single,,BATULAO,Facebook Ads,Locally Employed,bureau of internal revenue,20-80 Pagibig Financing,,,CALISTA MID
+02/18/2027 16:08:34,02/18/2027,Client 353,41,"PHP 163,000",Married,4,PANDI EXPANSION,Facebook Ads,OFW Land base,SAMSUNG c&t (saudi),20-80 Pagibig Financing,39,"PHP 209,500",CALISTA END
+02/20/2027 20:18:21,02/20/2027,Client 354,51,"PHP 72,500",Single,,GAPAN,Other:,OFW Sea Base,evergreen marine,10-90 Bank Financing,,,CALISTA MID
+02/23/2027 18:09:08,02/23/2027,Client 355,48,"PHP 34,000",Single,,LIPA,Facebook Ads,OFW Land base,SAMSUNG hq seoul,20-80 Pagibig Financing,,,CALISTA MID
+03/05/2027 16:18:43,03/05/2027,Client 356,34,"PHP 54,000",Widow,,GEN TRI,Facebook Ads,OFW Land base,samsung c&t (saudi),Deferred Cash,,,CALISTA MID
+03/12/2027 17:17:31,03/12/2027,Client 357,45,"PHP 116,500",Single,,BATULAO,Referral,OFW Land base,qatar petroleum,20-80 Pagibig Financing,,,CALISTA END
+03/14/2027 09:24:41,03/14/2027,Client 358,48,"PHP 93,500",Widow,,BALIWAG,Broker/Agent,Self Employed/ Business Owner,Family catering services,20-80 Pagibig Financing,,,CALISTA END
+03/17/2027 12:00:32,03/17/2027,Client 359,48,"PHP 106,000",Married,5,PANDI EXPANSION,Facebook Ads,OFW Sea Base,Carnival cruise line,20-80 Pagibig Financing,43,"PHP 84,000",CALISTA END
+03/22/2027 18:53:10,03/22/2027,Client 360,51,"PHP 120,000",Single,,LIPA,Facebook Ads,OFW Land base,japan tobacco int'l,Deferred Cash,,,CALISTA END
+03/25/2027 15:44:52,03/25/2027,Client 361,51,"PHP 48,500",Married,2,LIPA,Facebook Ads,OFW Land base,Japan Tobacco int'l,20-80 Pagibig Financing,49,"PHP 47,500",CALISTA MID
+03/25/2027 12:01:18,03/25/2027,Client 362,44,"PHP 227,000",Married,2,MAGALANG EAST,Facebook Ads,OFW Land base,Aramco,20-80 Pagibig Financing,49,"PHP 291,000",CALISTA END
+03/27/2027 08:32:29,03/27/2027,Client 363,25,"PHP 67,500",Single,N/a,BALIWAG,Facebook Ads,Locally Employed,san miguel corporation,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+04/06/2027 09:17:45,04/06/2027,Client 364,51,"PHP 76,000",Married,4,BATULAO,Referral,OFW Land base,emirates airlines,20-80 Pagibig Financing,48,"PHP 46,000",CALISTA END
+04/06/2027 12:09:28,04/06/2027,Client 365,41,"PHP 58,000",Married,4,BATULAO,Referral,OFW Land base,Al futtaim group,20-80 Pagibig Financing,40,"PHP 74,000",CALISTA END
+04/08/2027 13:01:34,04/08/2027,Client 366,32,"PHP 234,500",Single,,MAGALANG EAST,Referral,OFW Land base,sohar aluminum,20-80 Pagibig Financing,,,CALISTA END
+04/16/2027 08:24:52,04/16/2027,Client 367,49,"PHP 16,500",Single,,LIPA,Broker/Agent,Self Employed/ Business Owner,freelance services,20-80 Pagibig Financing,,,CALISTA MID
+04/26/2027 10:49:02,04/26/2027,Client 368,25,"PHP 135,000",Married,3,MAGALANG EAST,Broker/Agent,OFW Land base,sohar aluminum,20-80 Pagibig Financing,28,"PHP 125,500",CALISTA END
+04/28/2027 20:44:50,04/28/2027,Client 369,53,"PHP 168,000",Single,N/a,PANDI EXPANSION,Facebook Ads,OFW Land base,Four seasons dubai,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+04/29/2027 18:50:56,04/29/2027,Client 370,33,"PHP 65,500",Single,N/a,CALAMBA,Referral,Locally Employed,department of education,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+04/30/2027 17:02:12,04/30/2027,Client 371,26,"PHP 126,000",Single,,BALIWAG,Broker/Agent,OFW Land base,Japan tobacco int'l,Deferred Cash,,,CALISTA END
+05/02/2027 19:18:46,05/02/2027,Client 372,49,"PHP 83,500",Single,N/a,BATULAO,Facebook Ads,OFW Land base,Samsung hq seoul,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+05/02/2027 13:12:05,05/02/2027,Client 373,32,"PHP 135,000",Married,2,PANDI EXPANSION,Referral,Self Employed/ Business Owner,own accounting practice,Cash,29,"PHP 96,000",CALISTA END
+05/07/2027 12:55:20,05/07/2027,Client 374,50,"PHP 127,500",Widow,,SAN PABLO EAST,Facebook Ads,Self Employed/ Business Owner,Independent contractor,20-80 Pagibig Financing,,,CALISTA END
+05/14/2027 09:17:08,05/14/2027,Client 375,38,"PHP 97,500",Married,3,PANDI EXPANSION,Facebook Ads,Self Employed/ Business Owner,sari-sari store,20-80 Pagibig Financing,39,"PHP 56,000",CALISTA END
+05/16/2027 09:39:45,05/16/2027,Client 376,25,"PHP 122,000",Widow,2,MAGALANG EAST,Facebook Ads,OFW Land base,aster dm healthcare,Deferred Cash,N/a,N/a,CALISTA END
+05/17/2027 18:32:32,05/17/2027,Client 377,36,"PHP 131,000",Single,N/a,MAGALANG EAST,Facebook Ads,Locally Employed,Philippine Airlines,10-90 Bank Financing,N/a,N/a,CALISTA END
+05/23/2027 13:52:11,05/23/2027,Client 378,37,"PHP 114,500",Single,,CALAMBA,Broker/Agent,Locally Employed,Philippine general hospital,20-80 Pagibig Financing,,,CALISTA END
+05/24/2027 10:44:38,05/24/2027,Client 379,33,"PHP 211,000",Married,6,GAPAN,Facebook Ads,OFW Land base,enoc,10-90 Bank Financing,38,"PHP 116,500",CALISTA END
+05/24/2027 17:30:27,05/24/2027,Client 380,27,"PHP 188,500",Married,2,PANDI EXPANSION,Facebook Ads,OFW Land base,hyundai engineering,10-90 Bank Financing,25,"PHP 212,000",CALISTA END
+05/31/2027 12:06:35,05/31/2027,Client 381,39,"PHP 52,000",Married,2,LIPA,Referral,OFW Land base,emirates airlines,20-80 Pagibig Financing,36,"PHP 45,000",CALISTA MID
+06/06/2027 16:13:38,06/06/2027,Client 382,50,"PHP 54,000",Single,,LIPA,Referral,OFW Land base,emaar properties,20-80 Pagibig Financing,,,CALISTA MID
+06/06/2027 13:37:56,06/06/2027,Client 383,48,"PHP 122,500",Single,,PANDI EXPANSION,Facebook Ads,OFW Land base,hyundai engineering Korea,20-80 Pagibig Financing,,,CALISTA END
+06/09/2027 10:37:45,06/09/2027,Client 384,30,"PHP 91,000",Single,,BATULAO,Facebook Ads,Locally Employed,metrobank,20-80 Pagibig Financing,,,CALISTA MID
+06/09/2027 14:24:36,06/09/2027,Client 385,33,"PHP 72,500",Married,7,LIPA,Referral,OFW Land base,EMIRATES AIRLINES,20-80 Pagibig Financing,36,"PHP 93,000",CALISTA END
+06/11/2027 12:45:21,06/11/2027,Client 386,40,"PHP 104,000",Widow,,BATULAO,Broker/Agent,OFW Land base,Emaar properties,20-80 Pagibig Financing,,,CALISTA END
+06/12/2027 14:34:52,06/12/2027,Client 387,25,"PHP 50,500",Married,5,LIPA,Facebook Ads,Locally Employed,accenture philippines,20-80 Pagibig Financing,23,"PHP 54,500",CALISTA END
+06/12/2027 18:46:13,06/12/2027,Client 388,38,"PHP 50,500",Married,2,PANDI EXPANSION,Facebook Ads,OFW Land base,Sohar aluminum,10-90 Bank Financing,40,"PHP 33,500",CALISTA END
+06/13/2027 20:43:04,06/13/2027,Client 389,34,"PHP 217,000",Married,6,BATULAO,Facebook Ads,OFW Land base,Petrofac,20-80 Pagibig Financing,36,"PHP 194,500",CALISTA END
+06/13/2027 20:41:36,06/13/2027,Client 390,28,"PHP 145,500",Married,3,BATULAO,Facebook Ads,Locally Employed,metrobank,20-80 Pagibig Financing,23,"PHP 98,000",CALISTA END
+06/28/2027 13:22:37,06/28/2027,Client 391,55,"PHP 20,500",Single,,BALANGA,Facebook Ads,Locally Employed,Universal Robina corp,20-80 Pagibig Financing,,,CALISTA MID
+07/01/2027 09:02:03,07/01/2027,Client 392,51,"PHP 88,500",Married,3,BATULAO,Facebook Ads,Self Employed/ Business Owner,tricycle operator,Cash,49,"PHP 55,500",CALISTA END
+07/02/2027 14:46:32,07/02/2027,Client 393,29,"PHP 140,500",Married,7,BATULAO,Broker/Agent,OFW Land base,hyundai engineering,20-80 Pagibig Financing,30,"PHP 91,000",CALISTA END
+07/12/2027 10:37:02,07/12/2027,Client 394,54,"PHP 34,000",Single,,MAGALANG EAST,Referral,OFW Land base,aster dm healthcare,20-80 Pagibig Financing,,,CALISTA MID
+07/12/2027 13:11:01,07/12/2027,Client 395,44,"PHP 44,000",Single,,PANDI EXPANSION,Referral,Self Employed/ Business Owner,own ACCOUNTING PRACTICE,20-80 Pagibig Financing,,,CALISTA MID
+07/13/2027 12:02:44,07/13/2027,Client 396,36,"PHP 118,000",Single,N/a,BATULAO,Broker/Agent,Locally Employed,Meralco,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+07/21/2027 19:26:52,07/21/2027,Client 397,37,"PHP 88,500",Single,,NAIC,Broker/Agent,OFW Land base,adnoc,20-80 Pagibig Financing,,,CALISTA MID
+07/31/2027 16:51:53,07/31/2027,Client 398,28,"PHP 16,000",Married,5,MAGALANG EAST,Facebook Ads,Self Employed/ Business Owner,family catering services,Cash,23,"PHP 12,000",CALISTA MID
+08/03/2027 15:00:22,08/03/2027,Client 399,39,"PHP 31,000",Single,,CALAMBA,Facebook Ads,OFW Land base,prosegur uae,20-80 Pagibig Financing,,,CALISTA MID
+08/03/2027 16:55:21,08/03/2027,Client 400,40,"PHP 143,500",Married,6,LIPA,Facebook Ads,OFW Land base,Pricewaterhousecoopers uae,10-90 Bank Financing,38,"PHP 137,000",CALISTA END
+08/05/2027 14:51:42,08/05/2027,Client 401,34,"PHP 197,500",Married,3,GAPAN,Facebook Ads,OFW Land base,emaar properties,20-80 Pagibig Financing,36,"PHP 219,500",CALISTA END
+08/12/2027 18:46:57,08/12/2027,Client 402,39,"PHP 118,000",Single,N/a,PANDI EXPANSION,Facebook Ads,OFW Sea Base,Philippine airlines (int'l),20-80 Pagibig Financing,N/a,N/a,CALISTA END
+08/15/2027 19:57:53,08/15/2027,Client 403,28,"PHP 136,500",Married,4,PANDI EXPANSION,Broker/Agent,Self Employed/ Business Owner,tricycle operator,20-80 Pagibig Financing,28,"PHP 144,500",CALISTA END
+08/16/2027 15:33:23,08/16/2027,Client 404,30,"PHP 169,000",Married,6,IMPRESSIONS HERMOSA,Referral,OFW Land base,Kuwait oil company,Deferred Cash,25,"PHP 191,000",CALISTA END
+08/21/2027 13:26:56,08/21/2027,Client 405,30,"PHP 136,500",Single,,MAGALANG EAST,Facebook Ads,OFW Land base,bechtel middle east,20-80 Pagibig Financing,,,CALISTA END
+08/21/2027 10:41:53,08/21/2027,Client 406,53,"PHP 41,500",Widow,3,LIPA,Referral,Locally Employed,holcim philippines,20-80 Pagibig Financing,,,CALISTA MID
+08/26/2027 15:07:05,08/26/2027,Client 407,33,"PHP 47,000",Married,6,CALAMBA,Facebook Ads,OFW Land base,four seasons dubai,20-80 Pagibig Financing,31,"PHP 48,500",CALISTA MID
+08/26/2027 17:03:02,08/26/2027,Client 408,43,"PHP 214,500",Married,7,BALIWAG,Facebook Ads,Locally Employed,Bdo unibank,10-90 Bank Financing,42,"PHP 138,000",UNNA CORNER
+08/28/2027 20:28:28,08/28/2027,Client 409,43,"PHP 274,000",Single,,BALIWAG,Broker/Agent,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,,,UNNA CORNER
+08/28/2027 10:19:45,08/28/2027,Client 410,36,"PHP 80,500",Married,3,GEN TRI,Facebook Ads,Locally Employed,Philippine General hospital,10-90 Bank Financing,32,"PHP 65,500",CALISTA END
+09/04/2027 19:36:23,09/04/2027,Client 411,43,"PHP 76,000",Married,6,CALAMBA,Referral,Locally Employed,sm investments Corp,10-90 Bank Financing,42,"PHP 96,000",CALISTA END
+09/11/2027 18:03:04,09/11/2027,Client 412,30,"PHP 69,000",Married,7,BATULAO,Facebook Ads,Self Employed/ Business Owner,family agricultural business,20-80 Pagibig Financing,32,"PHP 34,500",CALISTA END
+09/11/2027 11:45:15,09/11/2027,Client 413,43,"PHP 61,000",Single,N/a,MAGALANG EAST,Facebook Ads,Self Employed/ Business Owner,Family agricultural business,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+09/18/2027 11:02:36,09/18/2027,Client 414,42,"PHP 248,500",Single,,CALAMBA,Facebook Ads,OFW Land base,Jumeirah group,20-80 Pagibig Financing,,,CALISTA END
+10/02/2027 16:51:53,10/02/2027,Client 415,52,"PHP 101,500",Single,,MAGALANG EAST,Facebook Ads,OFW Land base,Hyundai engineering,20-80 Pagibig Financing,,,CALISTA MID
+10/03/2027 13:28:23,10/03/2027,Client 416,45,"PHP 239,500",Single,,PANDI EXPANSION,Referral,OFW Land base,walmart us,20-80 Pagibig Financing,,,CALISTA END
+10/17/2027 15:47:13,10/17/2027,Client 417,40,"PHP 38,000",Single,N/a,MAGALANG EAST,Referral,OFW Sea Base,carnival cruise line,10-90 Bank Financing,N/a,N/a,CALISTA MID
+10/20/2027 12:53:36,10/20/2027,Client 418,33,"PHP 37,000",Married,7,BATULAO,Facebook Ads,OFW Land base,aramco,10-90 Bank Financing,30,"PHP 45,500",CALISTA MID
+10/20/2027 14:47:16,10/20/2027,Client 419,49,"PHP 19,000",Single,,MAGALANG EAST,Other:,Locally Employed,cebu PACIFIC,20-80 Pagibig Financing,,,CALISTA MID
+10/22/2027 13:30:53,10/22/2027,Client 420,33,"PHP 60,000",Single,,LIPA,Facebook Ads,Self Employed/ Business Owner,tricycle Operator,20-80 Pagibig Financing,,,CALISTA MID
+10/26/2027 20:14:34,10/26/2027,Client 421,26,"PHP 83,500",Single,N/a,PANDI EXPANSION,Other:,Self Employed/ Business Owner,Independent contractor,10-90 Bank Financing,N/a,N/a,CALISTA END
+10/27/2027 18:25:14,10/27/2027,Client 422,51,"PHP 114,000",Married,3,MAGALANG EAST,Broker/Agent,Self Employed/ Business Owner,tricycle operator,20-80 Pagibig Financing,50,"PHP 80,500",CALISTA END
+11/01/2027 16:31:50,11/01/2027,Client 423,52,"PHP 75,000",Married,7,PANDI EXPANSION,Referral,OFW Land base,Hyundai engineering korea,20-80 Pagibig Financing,52,"PHP 61,500",CALISTA END
+11/02/2027 09:10:42,11/02/2027,Client 424,36,"PHP 217,500",Single,,IMPRESSIONS HERMOSA,Broker/Agent,Self Employed/ Business Owner,Freelance services,20-80 Pagibig Financing,,,CALISTA END
+11/03/2027 15:27:22,11/03/2027,Client 425,50,"PHP 73,500",Single,,BATULAO,Facebook Ads,Self Employed/ Business Owner,event Catering Entrepreneur,10-90 Bank Financing,,,CALISTA MID
+11/03/2027 08:16:55,11/03/2027,Client 426,50,"PHP 375,000",Married,6,BALIWAG,Referral,OFW Land base,adnoc,20-80 Pagibig Financing,47,"PHP 189,000",UNNA CORNER
+11/04/2027 11:50:41,11/04/2027,Client 427,51,"PHP 47,500",Single,,BATULAO,Broker/Agent,OFW Land base,AMAZON fulfillment US,20-80 Pagibig Financing,,,CALISTA MID
+11/05/2027 12:46:30,11/05/2027,Client 428,47,"PHP 79,500",Single,,BATULAO,Facebook Ads,OFW Land base,four seasons dubai,Deferred Cash,,,CALISTA MID
+11/06/2027 11:54:45,11/06/2027,Client 429,40,"PHP 129,500",Single,N/a,TAYABAS,Facebook Ads,OFW Land base,Al rajhi bank,10-90 Bank Financing,N/a,N/a,CALISTA END
+11/06/2027 16:26:45,11/06/2027,Client 430,45,"PHP 117,500",Married,5,PANDI EXPANSION,Facebook Ads,OFW Land base,Emirates Airlines,20-80 Pagibig Financing,47,"PHP 118,000",CALISTA END
+11/07/2027 08:13:26,11/07/2027,Client 431,35,"PHP 243,500",Single,,PANDI EXPANSION,Referral,OFW Land base,emirates airlines,10-90 Bank Financing,,,CALISTA END
+11/09/2027 08:02:07,11/09/2027,Client 432,39,"PHP 29,000",Married,7,GAPAN,Broker/Agent,Locally Employed,philippine national police,Cash,39,"PHP 27,500",CALISTA MID
+11/10/2027 11:40:14,11/10/2027,Client 433,33,"PHP 238,000",Married,7,MAGALANG EAST,Referral,OFW Land base,Sohar aluminum,20-80 Pagibig Financing,37,"PHP 128,000",CALISTA END
+11/12/2027 14:24:33,11/12/2027,Client 434,57,"PHP 301,500",Married,6,BALIWAG,Broker/Agent,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,60,"PHP 312,000",UNNA CORNER
+11/12/2027 20:44:27,11/12/2027,Client 435,25,"PHP 169,500",Married,5,BATULAO,Referral,OFW Land base,bechtel MIDDLE EAST,20-80 Pagibig Financing,27,"PHP 113,500",CALISTA END
+11/15/2027 15:52:21,11/15/2027,Client 436,27,"PHP 57,500",Married,6,PANDI EXPANSION,Facebook Ads,OFW Land base,Apple inc.,10-90 Bank Financing,28,"PHP 74,000",CALISTA END
+11/18/2027 19:56:49,11/18/2027,Client 437,47,"PHP 248,500",Married,5,NAIC,Broker/Agent,OFW Land base,kuwait oil company,20-80 Pagibig Financing,48,"PHP 230,000",CALISTA END
+11/28/2027 20:16:31,11/28/2027,Client 438,43,"PHP 192,000",Married,2,MAGALANG EAST,Facebook Ads,OFW Land base,Al futtaim group,20-80 Pagibig Financing,41,"PHP 204,000",CALISTA END
+12/01/2027 08:25:59,12/01/2027,Client 439,51,"PHP 55,500",Single,,LIPA,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,,,CALISTA MID
+12/02/2027 20:54:03,12/02/2027,Client 440,37,"PHP 37,000",Married,3,MAGALANG EAST,Facebook Ads,OFW Land base,walmart us,10-90 Bank Financing,42,"PHP 41,000",CALISTA MID
+12/03/2027 15:47:56,12/03/2027,Client 441,37,"PHP 39,500",Married,3,PANDI EXPANSION,Facebook Ads,Self Employed/ Business Owner,sari-sari Store,20-80 Pagibig Financing,34,"PHP 50,500",CALISTA END
+12/09/2027 15:01:44,12/09/2027,Client 442,52,"PHP 293,000",Single,,BALIWAG,Facebook Ads,Locally Employed,holcim Philippines,20-80 Pagibig Financing,,,UNNA CORNER
+12/12/2027 10:33:21,12/12/2027,Client 443,48,"PHP 176,000",Married,2,GAPAN,Broker/Agent,Locally Employed,sm INVESTMENTS CORP,20-80 Pagibig Financing,46,"PHP 136,000",CALISTA END
+12/27/2027 17:03:50,12/27/2027,Client 444,49,"PHP 173,500",Married,4,LIPA,Facebook Ads,OFW Land base,bechtel middle East,10-90 Bank Financing,44,"PHP 187,500",CALISTA END
+01/03/2028 20:20:36,01/03/2028,Client 445,32,"PHP 105,500",Married,2,MAGALANG EAST,Facebook Ads,Locally Employed,Philippine general hospital,20-80 Pagibig Financing,37,"PHP 92,500",CALISTA END
+01/04/2028 11:03:13,01/04/2028,Client 446,52,"PHP 245,000",Single,N/a,GEN TRI,Broker/Agent,Locally Employed,meralco,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+01/06/2028 14:25:13,01/06/2028,Client 447,41,"PHP 96,500",Married,6,STO. TOMAS,Facebook Ads,OFW Land base,aramco,10-90 Bank Financing,40,"PHP 82,000",CALISTA END
+01/14/2028 11:59:36,01/14/2028,Client 448,28,"PHP 46,000",Single,,BATULAO,Facebook Ads,OFW Land base,enoc,20-80 Pagibig Financing,,,CALISTA MID
+01/14/2028 12:54:09,01/14/2028,Client 449,29,"PHP 30,000",Married,6,LIPA,Facebook Ads,OFW Land base,aster dm healthcare,20-80 Pagibig Financing,26,"PHP 30,500",CALISTA MID
+01/17/2028 08:54:19,01/17/2028,Client 450,40,"PHP 90,500",Married,3,CALAMBA,Other:,Locally Employed,land bank of The philippines,20-80 Pagibig Financing,41,"PHP 88,500",CALISTA END
+01/17/2028 19:15:06,01/17/2028,Client 451,41,"PHP 232,000",Married,6,LIPA,Facebook Ads,OFW Land base,Aramco,20-80 Pagibig Financing,42,"PHP 175,000",CALISTA END
+01/19/2028 09:08:29,01/19/2028,Client 452,37,"PHP 97,000",Married,3,MAGALANG EAST,Broker/Agent,Locally Employed,bureau of internal revenue,20-80 Pagibig Financing,34,"PHP 97,000",CALISTA END
+01/19/2028 13:46:16,01/19/2028,Client 453,34,"PHP 109,000",Married,2,LIPA,Facebook Ads,Locally Employed,Universal robina corp,20-80 Pagibig Financing,36,"PHP 104,000",CALISTA END
+01/21/2028 17:32:07,01/21/2028,Client 454,37,"PHP 144,000",Single,,LIPA,Facebook Ads,Locally Employed,jollibee foods corp,Cash,,,CALISTA END
+01/25/2028 12:41:05,01/25/2028,Client 455,27,"PHP 58,500",Single,N/a,STO. TOMAS,Broker/Agent,Locally Employed,asian hospital,10-90 Bank Financing,N/a,N/a,CALISTA MID
+01/26/2028 14:42:32,01/26/2028,Client 456,39,"PHP 130,500",Married,2,LIPA,Facebook Ads,OFW Land base,qatar petroleum,20-80 Pagibig Financing,41,"PHP 113,500",CALISTA END
+01/26/2028 18:07:07,01/26/2028,Client 457,25,"PHP 44,500",Married,7,CALAMBA,Broker/Agent,OFW Land base,kuwait oil company,20-80 Pagibig Financing,30,"PHP 40,500",CALISTA MID
+01/27/2028 09:48:15,01/27/2028,Client 458,36,"PHP 226,000",Married,7,GAPAN,Facebook Ads,OFW Sea Base,msc cruises,20-80 Pagibig Financing,40,"PHP 167,000",CALISTA END
+02/03/2028 08:42:44,02/03/2028,Client 459,35,"PHP 264,000",Widow,3,LIPA,Facebook Ads,Self Employed/ Business Owner,Jeepney operator,10-90 Bank Financing,,,CALISTA END
+02/04/2028 12:25:32,02/04/2028,Client 460,40,"PHP 99,500",Single,,GEN TRI,Facebook Ads,OFW Land base,emaar properties,20-80 Pagibig Financing,,,CALISTA MID
+02/09/2028 11:15:07,02/09/2028,Client 461,36,"PHP 162,500",Single,N/a,BALIWAG,Facebook Ads,OFW Sea Base,maersk Line,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+02/11/2028 12:04:30,02/11/2028,Client 462,32,"PHP 130,500",Widow,,STO. TOMAS,Facebook Ads,OFW Land base,Al futtaim group,10-90 Bank Financing,,,CALISTA END
+02/12/2028 16:29:40,02/12/2028,Client 463,40,"PHP 17,000",Married,2,LIPA,Facebook Ads,Self Employed/ Business Owner,independent contractor,20-80 Pagibig Financing,45,"PHP 14,500",CALISTA MID
+02/13/2028 19:04:06,02/13/2028,Client 464,48,"PHP 165,500",Single,,LIPA,Broker/Agent,OFW Land base,hyundai engineering korea,Deferred Cash,,,CALISTA END
+02/16/2028 17:03:17,02/16/2028,Client 465,35,"PHP 40,000",Married,3,BATULAO,Broker/Agent,Locally Employed,Land bank of the Philippines,20-80 Pagibig Financing,37,"PHP 20,500",CALISTA MID
+02/17/2028 11:16:21,02/17/2028,Client 466,50,"PHP 77,500",Married,2,LIPA,Facebook Ads,OFW Land base,al futtaim Group,20-80 Pagibig Financing,50,"PHP 90,000",CALISTA END
+02/19/2028 17:05:33,02/19/2028,Client 467,27,"PHP 146,500",Married,2,SIGHTS CALAUAN,Facebook Ads,OFW Land base,bechtel Middle east,10-90 Bank Financing,25,"PHP 88,000",CALISTA END
+02/21/2028 18:37:35,02/21/2028,Client 468,32,"PHP 107,500",Widow,,PANDI EXPANSION,Referral,OFW Land base,enoc,20-80 Pagibig Financing,,,CALISTA END
+02/21/2028 17:52:57,02/21/2028,Client 469,39,"PHP 330,000",Widow,N/a,BALIWAG,Other:,OFW Sea Base,Msc cruises,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+02/22/2028 08:20:20,02/22/2028,Client 470,54,"PHP 84,500",Married,4,BATULAO,Facebook Ads,Self Employed/ Business Owner,Independent contractor,10-90 Bank Financing,49,"PHP 50,000",CALISTA END
+02/25/2028 14:03:23,02/25/2028,Client 471,25,"PHP 137,500",Married,2,CALAMBA,Facebook Ads,OFW Land base,Consolidated contractors,20-80 Pagibig Financing,23,"PHP 83,500",CALISTA END
+03/03/2028 08:52:30,03/03/2028,Client 472,40,"PHP 29,000",Married,6,BALIWAG,Facebook Ads,Self Employed/ Business Owner,Jeepney operator,20-80 Pagibig Financing,39,"PHP 15,000",CALISTA MID
+03/05/2028 15:40:25,03/05/2028,Client 473,47,"PHP 240,000",Single,,BATULAO,Facebook Ads,OFW Land base,emaar properties,20-80 Pagibig Financing,,,CALISTA END
+03/08/2028 13:18:49,03/08/2028,Client 474,51,"PHP 53,500",Married,3,BALIWAG,Broker/Agent,OFW Land base,Emaar properties,20-80 Pagibig Financing,46,"PHP 59,500",CALISTA END
+03/08/2028 17:50:16,03/08/2028,Client 475,33,"PHP 102,000",Married,4,LIPA,Facebook Ads,OFW Land base,Adnoc,20-80 Pagibig Financing,31,"PHP 69,000",CALISTA END
+03/08/2028 09:09:39,03/08/2028,Client 476,55,"PHP 227,000",Married,7,BATULAO,Facebook Ads,OFW Land base,al rajhi bank,20-80 Pagibig Financing,53,"PHP 152,000",CALISTA END
+03/08/2028 18:36:17,03/08/2028,Client 477,39,"PHP 98,000",Married,5,LIPA,Referral,OFW Land base,Pricewaterhousecoopers Uae,20-80 Pagibig Financing,34,"PHP 63,500",CALISTA END
+03/15/2028 16:25:17,03/15/2028,Client 478,39,"PHP 66,500",Married,3,BATULAO,Facebook Ads,OFW Land base,consolidated contractors,Deferred Cash,41,"PHP 52,000",CALISTA END
+03/16/2028 13:31:49,03/16/2028,Client 479,31,"PHP 123,000",Single,N/a,CALAMBA,Facebook Ads,OFW Land base,enoc,10-90 Bank Financing,N/a,N/a,CALISTA END
+03/18/2028 09:06:28,03/18/2028,Client 480,46,"PHP 122,000",Single,N/a,MAGALANG EAST,Facebook Ads,OFW Land base,Qatar petroleum,Deferred Cash,N/a,N/a,CALISTA END
+03/18/2028 20:38:11,03/18/2028,Client 481,48,"PHP 40,500",Married,6,MAGALANG EAST,Referral,OFW Land base,kuwait oil company,20-80 Pagibig Financing,46,"PHP 29,500",CALISTA MID
+03/21/2028 19:10:28,03/21/2028,Client 482,29,"PHP 232,500",Widow,3,LIPA,Facebook Ads,OFW Land base,hyundai Engineering,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+03/21/2028 18:10:43,03/21/2028,Client 483,43,"PHP 33,000",Married,3,NAIC,Referral,OFW Land base,consolidated contractors,10-90 Bank Financing,40,"PHP 32,000",CALISTA MID
+03/22/2028 20:34:45,03/22/2028,Client 484,27,"PHP 155,000",Married,7,NAIC,Facebook Ads,OFW Land base,emaar properties,20-80 Pagibig Financing,25,"PHP 176,500",CALISTA END
+03/25/2028 13:52:35,03/25/2028,Client 485,37,"PHP 201,000",Married,6,GEN TRI,Broker/Agent,OFW Land base,bechtel MIDDLE east,20-80 Pagibig Financing,36,"PHP 224,500",CALISTA END
+03/29/2028 09:09:32,03/29/2028,Client 486,33,"PHP 197,000",Married,6,BATULAO,Facebook Ads,OFW Land base,Four Seasons Dubai,20-80 Pagibig Financing,33,"PHP 128,000",CALISTA END
+03/30/2028 11:42:06,03/30/2028,Client 487,38,"PHP 236,500",Married,5,NAIC,Referral,OFW Land base,aster dm HEALTHCARE,20-80 Pagibig Financing,40,"PHP 181,500",CALISTA END
+04/02/2028 12:27:45,04/02/2028,Client 488,32,"PHP 188,500",Single,N/a,BATULAO,Referral,OFW Land base,sohar aluminum,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+04/05/2028 14:41:36,04/05/2028,Client 489,40,"PHP 141,000",Widow,,PANDI EXPANSION,Facebook Ads,Locally Employed,Universal robina corp,10-90 Bank Financing,,,CALISTA END
+04/05/2028 20:42:30,04/05/2028,Client 490,37,"PHP 80,500",Single,N/a,GEN TRI,Facebook Ads,Locally Employed,san MIGUEL corporation,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+04/06/2028 13:39:03,04/06/2028,Client 491,26,"PHP 45,500",Widow,N/a,LIPA,Facebook Ads,OFW Land base,Al rajhi bank,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+04/07/2028 16:45:31,04/07/2028,Client 492,28,"PHP 130,000",Married,3,GEN TRI,Facebook Ads,OFW Sea Base,maersk line,20-80 Pagibig Financing,23,"PHP 91,500",CALISTA END
+04/08/2028 19:10:46,04/08/2028,Client 493,55,"PHP 23,500",Married,5,IMPRESSIONS HERMOSA,Other:,Locally Employed,metrobank,20-80 Pagibig Financing,55,"PHP 14,000",CALISTA MID
+04/09/2028 14:11:31,04/09/2028,Client 494,43,"PHP 101,500",Married,5,BATULAO,Facebook Ads,Locally Employed,philippine general Hospital,20-80 Pagibig Financing,44,"PHP 108,500",CALISTA END
+04/14/2028 19:58:55,04/14/2028,Client 495,36,"PHP 38,500",Single,N/a,LIPA,Broker/Agent,Self Employed/ Business Owner,family Catering Services,Cash,N/a,N/a,CALISTA MID
+04/21/2028 11:38:08,04/21/2028,Client 496,34,"PHP 194,000",Single,,BATULAO,Referral,Locally Employed,The medical city,20-80 Pagibig Financing,,,CALISTA END
+04/22/2028 10:31:03,04/22/2028,Client 497,41,"PHP 145,000",Married,3,GEN TRI,Facebook Ads,OFW Land base,emaar properties,20-80 Pagibig Financing,36,"PHP 93,000",CALISTA END
+04/22/2028 17:47:16,04/22/2028,Client 498,30,"PHP 195,500",Married,2,LIPA,Broker/Agent,OFW Land base,Aster Dm healthcare,20-80 Pagibig Financing,30,"PHP 190,000",CALISTA END
+04/25/2028 20:12:31,04/25/2028,Client 499,52,"PHP 236,000",Single,,LIPA,Facebook Ads,OFW Land base,pricewaterhousecoopers uae,10-90 Bank Financing,,,CALISTA END
+04/26/2028 12:42:57,04/26/2028,Client 500,37,"PHP 170,000",Single,,PANDI EXPANSION,Broker/Agent,Locally Employed,st. luke's medical center,Cash,,,CALISTA END
+05/01/2028 19:54:33,05/01/2028,Client 501,48,"PHP 97,500",Married,2,PANDI EXPANSION,Facebook Ads,Locally Employed,Bdo unibank,20-80 Pagibig Financing,47,"PHP 79,000",CALISTA END
+05/11/2028 09:13:25,05/11/2028,Client 502,47,"PHP 138,500",Single,,BATULAO,Referral,Locally Employed,san miguel corporation,10-90 Bank Financing,,,CALISTA END
+05/21/2028 18:51:44,05/21/2028,Client 503,34,"PHP 164,500",Married,7,GEN TRI,Facebook Ads,Locally Employed,st. luke's medical center,20-80 Pagibig Financing,39,"PHP 123,000",CALISTA END
+05/22/2028 17:35:52,05/22/2028,Client 504,63,"PHP 126,000",Married,7,GEN TRI,Other:,OFW Land base,Aramco,Deferred Cash,59,"PHP 72,000",UNNA CORNER
+05/23/2028 09:37:35,05/23/2028,Client 505,29,"PHP 80,500",Married,4,GEN TRI,Referral,OFW Land base,ASTER dm healthcare,20-80 Pagibig Financing,25,"PHP 91,000",CALISTA END
+05/24/2028 11:22:25,05/24/2028,Client 506,53,"PHP 201,500",Married,5,PANDI EXPANSION,Broker/Agent,Self Employed/ Business Owner,sari-sari store,20-80 Pagibig Financing,49,"PHP 156,000",CALISTA END
+05/25/2028 10:50:45,05/25/2028,Client 507,33,"PHP 70,500",Married,5,PANDI EXPANSION,Facebook Ads,Self Employed/ Business Owner,online seller,10-90 Bank Financing,31,"PHP 83,500",CALISTA END
+05/27/2028 11:10:03,05/27/2028,Client 508,26,"PHP 31,500",Widow,,LIPA,Facebook Ads,OFW Land base,consolidated contractors,20-80 Pagibig Financing,,,CALISTA MID
+06/03/2028 19:23:08,06/03/2028,Client 509,36,"PHP 58,000",Single,N/a,MAGALANG EAST,Facebook Ads,OFW Land base,four Seasons dubai,Deferred Cash,N/a,N/a,CALISTA MID
+06/11/2028 13:47:17,06/11/2028,Client 510,49,"PHP 34,000",Single,,MAGALANG EAST,Broker/Agent,Locally Employed,Philippine general hospital,20-80 Pagibig Financing,,,CALISTA MID
+06/14/2028 12:54:11,06/14/2028,Client 511,25,"PHP 40,000",Married,5,LIPA,Facebook Ads,Self Employed/ Business Owner,freelance services,20-80 Pagibig Financing,22,"PHP 47,000",CALISTA MID
+06/15/2028 17:29:33,06/15/2028,Client 512,27,"PHP 150,500",Married,7,PANDI EXPANSION,Broker/Agent,OFW Land base,kaiser permanente,20-80 Pagibig Financing,27,"PHP 113,000",CALISTA END
+06/20/2028 12:55:24,06/20/2028,Client 513,55,"PHP 74,000",Married,2,CALAMBA,Referral,OFW Land base,aster dm healthcare,10-90 Bank Financing,54,"PHP 66,500",CALISTA END
+06/20/2028 13:46:38,06/20/2028,Client 514,31,"PHP 61,000",Married,7,LIPA,Facebook Ads,Locally Employed,land bank of the philippines,20-80 Pagibig Financing,28,"PHP 73,500",CALISTA END
+06/25/2028 11:25:28,06/25/2028,Client 515,46,"PHP 16,000",Single,,GAPAN,Facebook Ads,Self Employed/ Business Owner,independent contractor,10-90 Bank Financing,,,CALISTA MID
+06/27/2028 12:05:38,06/27/2028,Client 516,29,"PHP 234,000",Single,,GEN TRI,Referral,OFW Land base,Al futtaim group,20-80 Pagibig Financing,,,CALISTA END
+06/28/2028 08:12:05,06/28/2028,Client 517,40,"PHP 157,500",Single,,STO. TOMAS,Referral,OFW Land base,four seasons dubai,20-80 Pagibig Financing,,,CALISTA END
+06/30/2028 19:24:03,06/30/2028,Client 518,52,"PHP 109,500",Married,7,BATULAO,Referral,OFW Land base,petrofac,20-80 Pagibig Financing,47,"PHP 81,500",CALISTA END
+07/03/2028 13:35:20,07/03/2028,Client 519,45,"PHP 122,500",Married,7,STO. TOMAS,Facebook Ads,OFW Land base,jumeirah group,20-80 Pagibig Financing,47,"PHP 75,500",CALISTA END
+07/03/2028 16:45:46,07/03/2028,Client 520,39,"PHP 167,500",Married,2,MAGALANG EAST,Facebook Ads,OFW Land base,sohar aluminum,20-80 Pagibig Financing,38,"PHP 171,000",CALISTA END
+07/03/2028 13:57:19,07/03/2028,Client 521,46,"PHP 224,000",Widow,2,LIPA,Broker/Agent,OFW Land base,Emirates airlines,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+07/08/2028 12:28:59,07/08/2028,Client 522,32,"PHP 66,500",Widow,,MAGALANG EAST,Referral,OFW Land base,Consolidated contractors,10-90 Bank Financing,,,CALISTA MID
+07/11/2028 09:22:06,07/11/2028,Client 523,46,"PHP 33,500",Married,2,BALIWAG,Referral,Locally Employed,department of education,10-90 Bank Financing,46,"PHP 41,500",CALISTA MID
+07/18/2028 11:06:50,07/18/2028,Client 524,26,"PHP 153,500",Married,5,LIPA,Broker/Agent,Locally Employed,metrobank,20-80 Pagibig Financing,24,"PHP 108,000",CALISTA END
+07/26/2028 10:16:16,07/26/2028,Client 525,28,"PHP 57,000",Single,,STO. TOMAS,Facebook Ads,Locally Employed,globe telecom,10-90 Bank Financing,,,CALISTA MID
+07/26/2028 17:37:23,07/26/2028,Client 526,29,"PHP 138,000",Married,7,BATULAO,Facebook Ads,Self Employed/ Business Owner,tricycle operator,20-80 Pagibig Financing,25,"PHP 158,000",CALISTA END
+07/27/2028 17:30:14,07/27/2028,Client 527,33,"PHP 111,000",Married,4,NAIC,Referral,OFW Land base,four seasons dubai,20-80 Pagibig Financing,28,"PHP 112,000",CALISTA END
+08/06/2028 20:16:49,08/06/2028,Client 528,35,"PHP 93,500",Married,2,BALIWAG,Referral,Self Employed/ Business Owner,sari-sari store,20-80 Pagibig Financing,33,"PHP 70,500",CALISTA END
+08/08/2028 12:33:54,08/08/2028,Client 529,43,"PHP 42,500",Single,N/a,LIPA,Referral,Locally Employed,Armed forces of the philippines,Cash,N/a,N/a,CALISTA MID
+08/10/2028 19:57:20,08/10/2028,Client 530,43,"PHP 173,000",Married,3,LIPA,Referral,Locally Employed,Land bank of the philippines,20-80 Pagibig Financing,40,"PHP 224,500",CALISTA END
+08/11/2028 13:37:58,08/11/2028,Client 531,41,"PHP 373,500",Married,5,BALIWAG,Facebook Ads,OFW Land base,Al futtaim group,10-90 Bank Financing,39,"PHP 251,000",UNNA CORNER
+08/13/2028 13:31:45,08/13/2028,Client 532,33,"PHP 45,000",Married,3,MAGALANG EAST,Facebook Ads,Locally Employed,San miguel corporation,20-80 Pagibig Financing,36,"PHP 39,000",CALISTA MID
+08/14/2028 11:40:20,08/14/2028,Client 533,26,"PHP 126,500",Single,N/a,PANDI EXPANSION,Facebook Ads,OFW Land base,sohar aluminum,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+08/17/2028 17:27:18,08/17/2028,Client 534,51,"PHP 62,500",Married,6,PANDI EXPANSION,Facebook Ads,Self Employed/ Business Owner,tricycle operator,Cash,53,"PHP 78,500",CALISTA END
+09/01/2028 18:53:18,09/01/2028,Client 535,29,"PHP 246,000",Married,5,CALAMBA,Facebook Ads,OFW Land base,Jumeirah group,10-90 Bank Financing,28,"PHP 225,000",CALISTA END
+09/02/2028 12:05:16,09/02/2028,Client 536,38,"PHP 28,500",Married,3,PANDI EXPANSION,Broker/Agent,Self Employed/ Business Owner,tricycle operator,10-90 Bank Financing,38,"PHP 36,500",CALISTA MID
+09/03/2028 15:14:27,09/03/2028,Client 537,51,"PHP 147,000",Single,,TAYABAS,Facebook Ads,OFW Land base,Four seasons dubai,10-90 Bank Financing,,,CALISTA END
+09/13/2028 08:30:56,09/13/2028,Client 538,29,"PHP 113,000",Single,N/a,CALAMBA,Facebook Ads,OFW Land base,kuwait OIL company,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+09/20/2028 13:36:28,09/20/2028,Client 539,53,"PHP 21,000",Married,5,LIPA,Facebook Ads,Self Employed/ Business Owner,Independent contractor,Cash,56,"PHP 22,500",CALISTA MID
+09/24/2028 11:27:16,09/24/2028,Client 540,33,"PHP 102,000",Single,N/a,PANDI EXPANSION,Facebook Ads,OFW Land base,bechtel MIDDLE east,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+09/24/2028 12:11:30,09/24/2028,Client 541,32,"PHP 35,500",Single,,LIPA,Facebook Ads,OFW Land base,Prosegur uae,20-80 Pagibig Financing,,,CALISTA MID
+09/29/2028 08:37:12,09/29/2028,Client 542,36,"PHP 154,000",Single,N/a,MAGALANG EAST,Referral,OFW Land base,bechtel middle east,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+10/03/2028 11:55:30,10/03/2028,Client 543,25,"PHP 175,000",Married,3,CALAMBA,Facebook Ads,OFW Land base,Emirates airlines,10-90 Bank Financing,24,"PHP 208,000",CALISTA END
+10/03/2028 08:32:27,10/03/2028,Client 544,32,"PHP 127,500",Married,4,BATULAO,Broker/Agent,OFW Land base,Pricewaterhousecoopers uae,10-90 Bank Financing,27,"PHP 71,000",CALISTA END
+10/04/2028 13:03:33,10/04/2028,Client 545,25,"PHP 110,500",Widow,N/a,SIGHTS CALAUAN,Broker/Agent,OFW Land base,Prosegur uae,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+10/04/2028 14:39:08,10/04/2028,Client 546,33,"PHP 115,500",Married,5,GEN TRI,Facebook Ads,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,29,"PHP 69,000",CALISTA END
+10/05/2028 13:04:16,10/05/2028,Client 547,33,"PHP 104,000",Married,3,PANDI EXPANSION,Referral,Self Employed/ Business Owner,Online seller,20-80 Pagibig Financing,29,"PHP 53,500",CALISTA END
+10/06/2028 14:09:08,10/06/2028,Client 548,28,"PHP 184,000",Married,2,NAIC,Referral,OFW Sea Base,msc Cruises,10-90 Bank Financing,28,"PHP 206,500",CALISTA END
+10/08/2028 18:30:10,10/08/2028,Client 549,44,"PHP 29,000",Single,,PANDI EXPANSION,Broker/Agent,Locally Employed,Holcim Philippines,Cash,,,CALISTA MID
+10/08/2028 19:01:33,10/08/2028,Client 550,35,"PHP 178,000",Single,,LIPA,Facebook Ads,Locally Employed,cebu pacific,20-80 Pagibig Financing,,,CALISTA END
+10/11/2028 08:30:58,10/11/2028,Client 551,31,"PHP 74,500",Single,,GAPAN,Facebook Ads,OFW Land base,emirates airlines,20-80 Pagibig Financing,,,CALISTA MID
+10/21/2028 18:07:07,10/21/2028,Client 552,35,"PHP 226,500",Married,5,GEN TRI,Broker/Agent,OFW Land base,Qatar petroleum,10-90 Bank Financing,30,"PHP 191,000",CALISTA END
+10/21/2028 08:50:22,10/21/2028,Client 553,37,"PHP 45,000",Married,6,BATULAO,Facebook Ads,Self Employed/ Business Owner,Own business operations,10-90 Bank Financing,35,"PHP 41,000",CALISTA MID
+10/23/2028 15:33:43,10/23/2028,Client 554,56,"PHP 106,000",Married,4,GEN TRI,Facebook Ads,Self Employed/ Business Owner,own business operations,20-80 Pagibig Financing,52,"PHP 82,500",UNNA CORNER
+10/24/2028 16:50:28,10/24/2028,Client 555,41,"PHP 144,000",Single,,MAGALANG EAST,Facebook Ads,Self Employed/ Business Owner,Independent contractor,10-90 Bank Financing,,,CALISTA END
+10/30/2028 14:18:28,10/30/2028,Client 556,48,"PHP 189,500",Single,,LIPA,Facebook Ads,OFW Land base,Samsung c&t (saudi),20-80 Pagibig Financing,,,CALISTA END
+10/31/2028 19:13:40,10/31/2028,Client 557,45,"PHP 142,000",Single,,BATULAO,Facebook Ads,OFW Land base,samsung c&t (saudi),10-90 Bank Financing,,,CALISTA END
+11/02/2028 15:39:29,11/02/2028,Client 558,36,"PHP 189,000",Married,2,PANDI EXPANSION,Facebook Ads,OFW Land base,Qatar petroleum,10-90 Bank Financing,40,"PHP 101,000",CALISTA END
+11/12/2028 09:26:44,11/12/2028,Client 559,52,"PHP 113,500",Single,,LIPA,Facebook Ads,Locally Employed,cebu pacific,20-80 Pagibig Financing,,,CALISTA END
+11/13/2028 08:44:07,11/13/2028,Client 560,53,"PHP 142,500",Married,7,NAIC,Referral,Locally Employed,the medical city,20-80 Pagibig Financing,51,"PHP 76,500",CALISTA END
+11/15/2028 14:42:16,11/15/2028,Client 561,38,"PHP 85,000",Single,,PANDI EXPANSION,Facebook Ads,OFW Sea Base,EVERGREEN marine,10-90 Bank Financing,,,CALISTA END
+11/15/2028 19:33:37,11/15/2028,Client 562,43,"PHP 40,000",Married,6,BATULAO,Facebook Ads,OFW Land base,hyundai engineering korea,20-80 Pagibig Financing,48,"PHP 27,500",CALISTA MID
+11/20/2028 15:39:25,11/20/2028,Client 563,38,"PHP 314,000",Married,4,BALIWAG,Broker/Agent,OFW Land base,Kuwait oil company,10-90 Bank Financing,34,"PHP 225,000",UNNA CORNER
+11/21/2028 10:29:00,11/21/2028,Client 564,49,"PHP 85,000",Married,2,BATULAO,Other:,Locally Employed,department OF education,20-80 Pagibig Financing,50,"PHP 93,000",CALISTA END
+11/23/2028 14:16:01,11/23/2028,Client 565,29,"PHP 25,500",Widow,,TAYABAS,Facebook Ads,Locally Employed,SM investments corp,20-80 Pagibig Financing,,,CALISTA MID
+11/27/2028 11:00:16,11/27/2028,Client 566,37,"PHP 28,000",Married,3,MAGALANG EAST,Referral,Locally Employed,Land bank of the philippines,10-90 Bank Financing,39,"PHP 32,000",CALISTA MID
+11/27/2028 13:14:11,11/27/2028,Client 567,31,"PHP 246,000",Widow,,PANDI EXPANSION,Referral,OFW Land base,consolidated contractors,Deferred Cash,,,CALISTA END
+12/04/2028 19:50:58,12/04/2028,Client 568,28,"PHP 35,500",Married,3,PANDI EXPANSION,Facebook Ads,OFW Land base,Qatar petroleum,20-80 Pagibig Financing,26,"PHP 21,500",CALISTA MID
+12/05/2028 20:27:14,12/05/2028,Client 569,55,"PHP 140,000",Married,5,LIPA,Facebook Ads,OFW Sea Base,Maersk Line,20-80 Pagibig Financing,56,"PHP 164,500",CALISTA END
+12/06/2028 16:36:38,12/06/2028,Client 570,29,"PHP 48,500",Married,5,PANDI EXPANSION,Broker/Agent,OFW Sea Base,maersk line,20-80 Pagibig Financing,28,"PHP 27,500",CALISTA MID
+12/11/2028 08:30:19,12/11/2028,Client 571,32,"PHP 65,000",Married,5,BATULAO,Facebook Ads,OFW Sea Base,Msc cruises,10-90 Bank Financing,30,"PHP 76,000",CALISTA END
+12/13/2028 18:57:51,12/13/2028,Client 572,30,"PHP 149,000",Single,,LIPA,Referral,Self Employed/ Business Owner,family agricultural business,20-80 Pagibig Financing,,,CALISTA END
+12/13/2028 09:57:33,12/13/2028,Client 573,42,"PHP 84,000",Married,3,NAIC,Other:,OFW Land base,adnoc,20-80 Pagibig Financing,37,"PHP 87,500",CALISTA END
+12/14/2028 20:12:14,12/14/2028,Client 574,47,"PHP 46,000",Married,5,STO. TOMAS,Facebook Ads,Locally Employed,department OF EDUCATION,10-90 Bank Financing,52,"PHP 45,500",CALISTA MID
+12/15/2028 20:32:40,12/15/2028,Client 575,31,"PHP 139,500",Single,,MAGALANG EAST,Facebook Ads,OFW Land base,Al futtaim group,20-80 Pagibig Financing,,,CALISTA END
+12/17/2028 19:18:59,12/17/2028,Client 576,28,"PHP 117,000",Married,2,PANDI EXPANSION,Broker/Agent,Self Employed/ Business Owner,online seller,10-90 Bank Financing,32,"PHP 149,500",CALISTA END
+12/17/2028 18:48:48,12/17/2028,Client 577,48,"PHP 46,000",Married,3,MAGALANG EAST,Referral,Locally Employed,accenture philippines,10-90 Bank Financing,45,"PHP 43,500",CALISTA MID
+12/24/2028 12:55:59,12/24/2028,Client 578,33,"PHP 147,500",Married,5,GEN TRI,Other:,OFW Land base,Al futtaim group,20-80 Pagibig Financing,35,"PHP 137,000",CALISTA END
+12/25/2028 10:51:17,12/25/2028,Client 579,47,"PHP 45,000",Single,,BALIWAG,Facebook Ads,OFW Land base,enoc,20-80 Pagibig Financing,,,CALISTA MID
+01/08/2029 10:21:52,01/08/2029,Client 580,54,"PHP 148,000",Single,N/a,LIPA,Facebook Ads,OFW Sea Base,msc cruises,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+01/10/2029 10:47:42,01/10/2029,Client 581,27,"PHP 37,500",Widow,,LIPA,Referral,OFW Land base,jumeirah group,20-80 Pagibig Financing,,,CALISTA MID
+01/11/2029 18:00:10,01/11/2029,Client 582,34,"PHP 23,500",Married,2,NAIC,Referral,Self Employed/ Business Owner,sari-sari store,Cash,30,"PHP 28,000",CALISTA MID
+01/17/2029 17:33:34,01/17/2029,Client 583,36,"PHP 32,000",Married,5,BATULAO,Facebook Ads,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,33,"PHP 31,500",CALISTA MID
+01/24/2029 13:26:50,01/24/2029,Client 584,46,"PHP 217,500",Married,4,LIPA,Facebook Ads,OFW Land base,Al futtaim group,10-90 Bank Financing,43,"PHP 200,000",CALISTA END
+01/24/2029 19:46:19,01/24/2029,Client 585,36,"PHP 43,000",Widow,,BATULAO,Facebook Ads,OFW Land base,Bechtel middle east,Deferred Cash,,,CALISTA MID
+01/25/2029 20:17:03,01/25/2029,Client 586,47,"PHP 148,500",Married,5,MAGALANG EAST,Facebook Ads,OFW Land base,sohar aluminum,20-80 Pagibig Financing,52,"PHP 109,000",CALISTA END
+01/28/2029 16:57:04,01/28/2029,Client 587,55,"PHP 30,500",Widow,2,CALAMBA,Facebook Ads,OFW Land base,kuwait oil company,20-80 Pagibig Financing,,,CALISTA MID
+01/31/2029 17:09:25,01/31/2029,Client 588,30,"PHP 118,000",Single,N/a,GEN TRI,Referral,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,N/a,N/a,CALISTA MID
+02/04/2029 14:33:47,02/04/2029,Client 589,53,"PHP 124,500",Married,4,NAIC,Broker/Agent,Locally Employed,philippine general Hospital,10-90 Bank Financing,50,"PHP 129,000",CALISTA END
+02/05/2029 09:02:13,02/05/2029,Client 590,27,"PHP 88,000",Married,5,MAGALANG EAST,Facebook Ads,OFW Sea Base,carnival cruise line,20-80 Pagibig Financing,22,"PHP 49,000",CALISTA END
+02/05/2029 19:49:42,02/05/2029,Client 591,48,"PHP 112,500",Single,,STO. TOMAS,Other:,Locally Employed,ayala land construction,20-80 Pagibig Financing,,,CALISTA END
+02/13/2029 20:39:57,02/13/2029,Client 592,41,"PHP 98,000",Married,7,STO. TOMAS,Referral,Locally Employed,the medical city,20-80 Pagibig Financing,44,"PHP 107,500",CALISTA END
+02/14/2029 17:14:34,02/14/2029,Client 593,37,"PHP 41,500",Single,,STO. TOMAS,Broker/Agent,OFW Sea Base,Philippine airlines (int'l),20-80 Pagibig Financing,,,CALISTA MID
+02/28/2029 20:42:42,02/28/2029,Client 594,45,"PHP 58,000",Married,7,NAIC,Facebook Ads,OFW Land base,samsung c&t (saudi),10-90 Bank Financing,42,"PHP 58,000",CALISTA END
+03/02/2029 10:14:30,03/02/2029,Client 595,40,"PHP 130,500",Married,6,BATULAO,Other:,OFW Sea Base,carnival cruise line,10-90 Bank Financing,40,"PHP 124,500",CALISTA END
+03/03/2029 12:57:50,03/03/2029,Client 596,37,"PHP 209,000",Single,N/a,BATULAO,Broker/Agent,OFW Land base,EMIRATES AIRLINES,20-80 Pagibig Financing,N/a,N/a,CALISTA END
+03/05/2029 08:32:23,03/05/2029,Client 597,52,"PHP 35,000",Married,7,GEN TRI,Facebook Ads,OFW Land base,emaar properties,20-80 Pagibig Financing,52,"PHP 28,000",CALISTA MID
+03/05/2029 13:20:16,03/05/2029,Client 598,25,"PHP 65,500",Widow,,BALIWAG,Broker/Agent,OFW Sea Base,MSC cruises,20-80 Pagibig Financing,,,CALISTA MID
+03/09/2029 10:48:26,03/09/2029,Client 599,55,"PHP 113,000",Married,7,LIPA,Referral,OFW Land base,adnoc,20-80 Pagibig Financing,60,"PHP 81,500",CALISTA END
+03/11/2029 19:24:52,03/11/2029,Client 600,36,"PHP 114,000",Single,,STO. TOMAS,Facebook Ads,Locally Employed,Universal robina corp,20-80 Pagibig Financing,,,CALISTA END
+03/23/2024 10:39:07,03/23/2024,Client 601,51,"PHP 333,000",Married,4,BALIWAG,Other:,OFW Land base,Hyundai engineering korea,20-80 Pagibig Financing,47,"PHP 331,000",UNNA CORNER
+06/15/2024 20:16:33,06/15/2024,Client 602,37,"PHP 274,000",Married,5,BALIWAG,Facebook Ads,Locally Employed,Sm investments corp,20-80 Pagibig Financing,34,"PHP 252,000",UNNA CORNER
+06/18/2024 12:45:55,06/18/2024,Client 603,52,"PHP 125,000",Married,6,GEN TRI,Referral,Self Employed/ Business Owner,freelance Services,20-80 Pagibig Financing,51,"PHP 142,500",UNNA CORNER
+10/28/2024 14:48:58,10/28/2024,Client 604,58,"PHP 304,500",Married,6,BALIWAG,Facebook Ads,OFW Sea Base,CARNIVAL cruise line,10-90 Bank Financing,60,"PHP 198,000",UNNA CORNER
+01/18/2025 16:17:17,01/18/2025,Client 605,60,"PHP 97,500",Married,7,GEN TRI,Referral,OFW Land base,enoc,10-90 Bank Financing,52,"PHP 86,000",UNNA CORNER
+02/22/2025 14:36:53,02/22/2025,Client 606,62,"PHP 212,000",Married,8,BALIWAG,Referral,Locally Employed,bureau OF internal REVENUE,Cash,66,"PHP 241,500",UNNA CORNER
+06/13/2025 13:43:23,06/13/2025,Client 607,45,"PHP 246,000",Single,N/a,BALIWAG,Referral,Locally Employed,San miguel corporation,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+08/12/2025 18:25:11,08/12/2025,Client 608,58,"PHP 165,000",Married,9,BALIWAG,Facebook Ads,Self Employed/ Business Owner,online seller,Cash,60,"PHP 154,000",UNNA CORNER
+08/16/2025 15:58:30,08/16/2025,Client 609,47,"PHP 184,000",Married,8,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,20-80 Pagibig Financing,41,"PHP 136,500",UNNA CORNER
+08/30/2025 18:03:43,08/30/2025,Client 610,38,"PHP 346,000",Married,6,BALIWAG,Facebook Ads,OFW Land base,hyundai engineering korea,Deferred Cash,38,"PHP 387,000",UNNA CORNER
+09/16/2025 17:14:04,09/16/2025,Client 611,35,"PHP 221,000",Married,9,BALIWAG,Referral,Locally Employed,the medical city,20-80 Pagibig Financing,38,"PHP 108,000",UNNA CORNER
+10/22/2025 10:40:45,10/22/2025,Client 612,35,"PHP 190,000",Single,,GEN TRI,Facebook Ads,OFW Land base,kuwait oil company,10-90 Bank Financing,,,UNNA CORNER
+10/22/2025 16:37:49,10/22/2025,Client 613,48,"PHP 322,500",Married,7,BALIWAG,Facebook Ads,OFW Land base,aramco,20-80 Pagibig Financing,43,"PHP 195,000",UNNA CORNER
+12/27/2025 16:37:11,12/27/2025,Client 614,50,"PHP 229,500",Married,4,BALIWAG,Referral,OFW Land base,Emaar properties,20-80 Pagibig Financing,47,"PHP 202,000",UNNA CORNER
+02/26/2026 19:46:53,02/26/2026,Client 615,36,"PHP 160,500",Married,7,BALIWAG,Referral,OFW Land base,KUWAIT OIL COMPANY,20-80 Pagibig Financing,34,"PHP 116,000",UNNA CORNER
+06/10/2026 20:11:12,06/10/2026,Client 616,42,"PHP 367,500",Married,4,BALIWAG,Facebook Ads,OFW Land base,Emaar properties,20-80 Pagibig Financing,46,"PHP 288,000",UNNA CORNER
+06/12/2026 18:36:32,06/12/2026,Client 617,63,"PHP 379,500",Single,,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,10-90 Bank Financing,,,UNNA CORNER
+06/15/2026 17:28:30,06/15/2026,Client 618,39,"PHP 200,000",Married,8,BALIWAG,Facebook Ads,Locally Employed,Cebu pacific,10-90 Bank Financing,37,"PHP 196,000",UNNA CORNER
+07/25/2026 14:19:02,07/25/2026,Client 619,39,"PHP 361,500",Married,6,BALIWAG,Facebook Ads,OFW Land base,qatar PETROLEUM,20-80 Pagibig Financing,46,"PHP 337,500",UNNA CORNER
+08/22/2026 14:44:21,08/22/2026,Client 620,40,"PHP 276,000",Single,,BALIWAG,Facebook Ads,OFW Land base,emaar properties,Deferred Cash,,,UNNA CORNER
+08/27/2026 09:49:47,08/27/2026,Client 621,45,"PHP 179,000",Married,8,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,43,"PHP 205,000",UNNA CORNER
+09/13/2026 17:28:17,09/13/2026,Client 622,45,"PHP 186,000",Single,,GEN TRI,Facebook Ads,OFW Sea Base,maersk line,20-80 Pagibig Financing,,,UNNA CORNER
+09/23/2026 11:14:49,09/23/2026,Client 623,61,"PHP 126,000",Married,10,GEN TRI,Broker/Agent,OFW Land base,al futtaim group,Deferred Cash,63,"PHP 85,500",UNNA CORNER
+10/19/2026 17:19:42,10/19/2026,Client 624,53,"PHP 195,000",Married,5,BALIWAG,Referral,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,55,"PHP 225,000",UNNA CORNER
+10/24/2026 08:42:20,10/24/2026,Client 625,51,"PHP 360,000",Married,5,BALIWAG,Facebook Ads,Self Employed/ Business Owner,family agricultural business,20-80 Pagibig Financing,58,"PHP 448,000",UNNA CORNER
+12/04/2026 14:44:47,12/04/2026,Client 626,47,"PHP 236,000",Married,7,BALIWAG,Facebook Ads,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,46,"PHP 242,000",UNNA CORNER
+12/31/2026 17:38:33,12/31/2026,Client 627,37,"PHP 191,000",Married,7,BALIWAG,Referral,Locally Employed,st. Luke's medical Center,20-80 Pagibig Financing,33,"PHP 192,000",UNNA CORNER
+01/22/2027 20:42:31,01/22/2027,Client 628,62,"PHP 181,500",Married,5,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,60,"PHP 200,000",UNNA CORNER
+08/26/2027 17:03:02,08/26/2027,Client 629,44,"PHP 223,500",Married,6,BALIWAG,Facebook Ads,Locally Employed,Bdo unibank,10-90 Bank Financing,44,"PHP 136,000",UNNA CORNER
+08/28/2027 20:28:28,08/28/2027,Client 630,44,"PHP 267,000",Single,,BALIWAG,Broker/Agent,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,,,UNNA CORNER
+11/03/2027 08:16:55,11/03/2027,Client 631,50,"PHP 372,000",Married,7,BALIWAG,Referral,OFW Land base,adnoc,20-80 Pagibig Financing,46,"PHP 198,000",UNNA CORNER
+11/12/2027 14:24:33,11/12/2027,Client 632,58,"PHP 309,000",Married,7,BALIWAG,Broker/Agent,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,59,"PHP 326,000",UNNA CORNER
+12/09/2027 15:01:44,12/09/2027,Client 633,53,"PHP 285,000",Single,,BALIWAG,Facebook Ads,Locally Employed,holcim Philippines,20-80 Pagibig Financing,,,UNNA CORNER
+01/04/2028 11:03:13,01/04/2028,Client 634,50,"PHP 235,000",Single,N/a,GEN TRI,Broker/Agent,Locally Employed,meralco,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+02/21/2028 17:52:57,02/21/2028,Client 635,39,"PHP 323,000",Widow,N/a,BALIWAG,Other:,OFW Sea Base,Msc cruises,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+05/22/2028 17:35:52,05/22/2028,Client 636,65,"PHP 121,500",Married,8,GEN TRI,Other:,OFW Land base,Aramco,Deferred Cash,60,"PHP 70,500",UNNA CORNER
+08/11/2028 13:37:58,08/11/2028,Client 637,41,"PHP 389,000",Married,4,BALIWAG,Facebook Ads,OFW Land base,Al futtaim group,10-90 Bank Financing,38,"PHP 251,000",UNNA CORNER
+10/23/2028 15:33:43,10/23/2028,Client 638,58,"PHP 109,000",Married,5,GEN TRI,Facebook Ads,Self Employed/ Business Owner,own business operations,20-80 Pagibig Financing,51,"PHP 81,000",UNNA CORNER
+11/20/2028 15:39:25,11/20/2028,Client 639,36,"PHP 319,000",Married,5,BALIWAG,Broker/Agent,OFW Land base,Kuwait oil company,10-90 Bank Financing,35,"PHP 220,500",UNNA CORNER
+03/23/2024 10:39:07,03/23/2024,Client 640,48,"PHP 327,000",Married,4,BALIWAG,Other:,OFW Land base,Hyundai engineering korea,20-80 Pagibig Financing,46,"PHP 313,000",UNNA CORNER
+06/15/2024 20:16:33,06/15/2024,Client 641,34,"PHP 299,000",Married,4,BALIWAG,Facebook Ads,Locally Employed,Sm investments corp,20-80 Pagibig Financing,33,"PHP 253,000",UNNA CORNER
+06/18/2024 12:45:55,06/18/2024,Client 642,51,"PHP 127,000",Married,6,GEN TRI,Referral,Self Employed/ Business Owner,freelance Services,20-80 Pagibig Financing,54,"PHP 142,000",UNNA CORNER
+10/28/2024 14:48:58,10/28/2024,Client 643,57,"PHP 329,000",Married,6,BALIWAG,Facebook Ads,OFW Sea Base,CARNIVAL cruise line,10-90 Bank Financing,57,"PHP 194,000",UNNA CORNER
+01/18/2025 16:17:17,01/18/2025,Client 644,60,"PHP 93,000",Married,5,GEN TRI,Referral,OFW Land base,enoc,10-90 Bank Financing,51,"PHP 87,000",UNNA CORNER
+02/22/2025 14:36:53,02/22/2025,Client 645,61,"PHP 207,000",Married,10,BALIWAG,Referral,Locally Employed,bureau OF internal REVENUE,Cash,66,"PHP 229,500",UNNA CORNER
+06/13/2025 13:43:23,06/13/2025,Client 646,43,"PHP 254,000",Single,N/a,BALIWAG,Referral,Locally Employed,San miguel corporation,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+08/12/2025 18:25:11,08/12/2025,Client 647,58,"PHP 175,500",Married,8,BALIWAG,Facebook Ads,Self Employed/ Business Owner,online seller,Cash,61,"PHP 146,000",UNNA CORNER
+08/16/2025 15:58:30,08/16/2025,Client 648,46,"PHP 194,000",Married,8,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,20-80 Pagibig Financing,42,"PHP 135,000",UNNA CORNER
+08/30/2025 18:03:43,08/30/2025,Client 649,38,"PHP 342,000",Married,7,BALIWAG,Facebook Ads,OFW Land base,hyundai engineering korea,Deferred Cash,37,"PHP 407,000",UNNA CORNER
+09/16/2025 17:14:04,09/16/2025,Client 650,35,"PHP 216,000",Married,9,BALIWAG,Referral,Locally Employed,the medical city,20-80 Pagibig Financing,38,"PHP 106,500",UNNA CORNER
+10/22/2025 10:40:45,10/22/2025,Client 651,34,"PHP 189,000",Single,,GEN TRI,Facebook Ads,OFW Land base,kuwait oil company,10-90 Bank Financing,,,UNNA CORNER
+10/22/2025 16:37:49,10/22/2025,Client 652,47,"PHP 319,000",Married,6,BALIWAG,Facebook Ads,OFW Land base,aramco,20-80 Pagibig Financing,40,"PHP 187,000",UNNA CORNER
+12/27/2025 16:37:11,12/27/2025,Client 653,51,"PHP 220,000",Married,5,BALIWAG,Referral,OFW Land base,Emaar properties,20-80 Pagibig Financing,47,"PHP 198,000",UNNA CORNER
+02/26/2026 19:46:53,02/26/2026,Client 654,35,"PHP 175,000",Married,7,BALIWAG,Referral,OFW Land base,KUWAIT OIL COMPANY,20-80 Pagibig Financing,34,"PHP 109,000",UNNA CORNER
+06/10/2026 20:11:12,06/10/2026,Client 655,41,"PHP 359,000",Married,6,BALIWAG,Facebook Ads,OFW Land base,Emaar properties,20-80 Pagibig Financing,43,"PHP 290,000",UNNA CORNER
+06/12/2026 18:36:32,06/12/2026,Client 656,64,"PHP 361,500",Single,,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,10-90 Bank Financing,,,UNNA CORNER
+06/15/2026 17:28:30,06/15/2026,Client 657,38,"PHP 206,000",Married,8,BALIWAG,Facebook Ads,Locally Employed,Cebu pacific,10-90 Bank Financing,34,"PHP 193,500",UNNA CORNER
+07/25/2026 14:19:02,07/25/2026,Client 658,40,"PHP 361,000",Married,6,BALIWAG,Facebook Ads,OFW Land base,qatar PETROLEUM,20-80 Pagibig Financing,44,"PHP 325,500",UNNA CORNER
+08/22/2026 14:44:21,08/22/2026,Client 659,39,"PHP 289,000",Single,,BALIWAG,Facebook Ads,OFW Land base,emaar properties,Deferred Cash,,,UNNA CORNER
+08/27/2026 09:49:47,08/27/2026,Client 660,44,"PHP 175,500",Married,8,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,46,"PHP 219,000",UNNA CORNER
+09/13/2026 17:28:17,09/13/2026,Client 661,41,"PHP 188,000",Single,,GEN TRI,Facebook Ads,OFW Sea Base,maersk line,20-80 Pagibig Financing,,,UNNA CORNER
+09/23/2026 11:14:49,09/23/2026,Client 662,61,"PHP 133,000",Married,8,GEN TRI,Broker/Agent,OFW Land base,al futtaim group,Deferred Cash,64,"PHP 85,000",UNNA CORNER
+10/19/2026 17:19:42,10/19/2026,Client 663,55,"PHP 213,000",Married,6,BALIWAG,Referral,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,58,"PHP 230,000",UNNA CORNER
+10/24/2026 08:42:20,10/24/2026,Client 664,55,"PHP 362,000",Married,5,BALIWAG,Facebook Ads,Self Employed/ Business Owner,family agricultural business,20-80 Pagibig Financing,57,"PHP 426,000",UNNA CORNER
+12/04/2026 14:44:47,12/04/2026,Client 665,47,"PHP 229,000",Married,9,BALIWAG,Facebook Ads,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,45,"PHP 251,000",UNNA CORNER
+12/31/2026 17:38:33,12/31/2026,Client 666,38,"PHP 189,000",Married,7,BALIWAG,Referral,Locally Employed,st. Luke's medical Center,20-80 Pagibig Financing,32,"PHP 189,000",UNNA CORNER
+01/22/2027 20:42:31,01/22/2027,Client 667,64,"PHP 177,000",Married,5,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,59,"PHP 190,000",UNNA CORNER
+08/26/2027 17:03:02,08/26/2027,Client 668,43,"PHP 214,500",Married,6,BALIWAG,Facebook Ads,Locally Employed,Bdo unibank,10-90 Bank Financing,42,"PHP 145,000",UNNA CORNER
+08/28/2027 20:28:28,08/28/2027,Client 669,44,"PHP 270,000",Single,,BALIWAG,Broker/Agent,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,,,UNNA CORNER
+11/03/2027 08:16:55,11/03/2027,Client 670,50,"PHP 371,000",Married,7,BALIWAG,Referral,OFW Land base,adnoc,20-80 Pagibig Financing,47,"PHP 196,000",UNNA CORNER
+11/12/2027 14:24:33,11/12/2027,Client 671,56,"PHP 312,000",Married,7,BALIWAG,Broker/Agent,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,61,"PHP 323,000",UNNA CORNER
+12/09/2027 15:01:44,12/09/2027,Client 672,52,"PHP 306,000",Single,,BALIWAG,Facebook Ads,Locally Employed,holcim Philippines,20-80 Pagibig Financing,,,UNNA CORNER
+01/04/2028 11:03:13,01/04/2028,Client 673,52,"PHP 235,000",Single,N/a,GEN TRI,Broker/Agent,Locally Employed,meralco,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+02/21/2028 17:52:57,02/21/2028,Client 674,40,"PHP 320,000",Widow,N/a,BALIWAG,Other:,OFW Sea Base,Msc cruises,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+05/22/2028 17:35:52,05/22/2028,Client 675,64,"PHP 128,000",Married,7,GEN TRI,Other:,OFW Land base,Aramco,Deferred Cash,57,"PHP 70,500",UNNA CORNER
+08/11/2028 13:37:58,08/11/2028,Client 676,39,"PHP 368,000",Married,6,BALIWAG,Facebook Ads,OFW Land base,Al futtaim group,10-90 Bank Financing,40,"PHP 240,000",UNNA CORNER
+10/23/2028 15:33:43,10/23/2028,Client 677,54,"PHP 103,500",Married,4,GEN TRI,Facebook Ads,Self Employed/ Business Owner,own business operations,20-80 Pagibig Financing,52,"PHP 81,000",UNNA CORNER
+11/20/2028 15:39:25,11/20/2028,Client 678,37,"PHP 307,500",Married,4,BALIWAG,Broker/Agent,OFW Land base,Kuwait oil company,10-90 Bank Financing,32,"PHP 226,000",UNNA CORNER
+03/23/2024 10:39:07,03/23/2024,Client 679,51,"PHP 335,000",Married,5,BALIWAG,Other:,OFW Land base,Hyundai engineering korea,20-80 Pagibig Financing,47,"PHP 317,000",UNNA CORNER
+06/15/2024 20:16:33,06/15/2024,Client 680,36,"PHP 272,000",Married,4,BALIWAG,Facebook Ads,Locally Employed,Sm investments corp,20-80 Pagibig Financing,33,"PHP 239,000",UNNA CORNER
+06/18/2024 12:45:55,06/18/2024,Client 681,53,"PHP 130,500",Married,4,GEN TRI,Referral,Self Employed/ Business Owner,freelance Services,20-80 Pagibig Financing,55,"PHP 145,000",UNNA CORNER
+10/28/2024 14:48:58,10/28/2024,Client 682,58,"PHP 310,000",Married,7,BALIWAG,Facebook Ads,OFW Sea Base,CARNIVAL cruise line,10-90 Bank Financing,57,"PHP 193,500",UNNA CORNER
+01/18/2025 16:17:17,01/18/2025,Client 683,59,"PHP 90,000",Married,6,GEN TRI,Referral,OFW Land base,enoc,10-90 Bank Financing,55,"PHP 88,500",UNNA CORNER
+02/22/2025 14:36:53,02/22/2025,Client 684,65,"PHP 214,500",Married,10,BALIWAG,Referral,Locally Employed,bureau OF internal REVENUE,Cash,68,"PHP 241,000",UNNA CORNER
+06/13/2025 13:43:23,06/13/2025,Client 685,46,"PHP 253,500",Single,N/a,BALIWAG,Referral,Locally Employed,San miguel corporation,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+08/12/2025 18:25:11,08/12/2025,Client 686,58,"PHP 179,000",Married,8,BALIWAG,Facebook Ads,Self Employed/ Business Owner,online seller,Cash,64,"PHP 152,000",UNNA CORNER
+08/16/2025 15:58:30,08/16/2025,Client 687,48,"PHP 192,000",Married,8,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,20-80 Pagibig Financing,40,"PHP 133,000",UNNA CORNER
+08/30/2025 18:03:43,08/30/2025,Client 688,38,"PHP 362,000",Married,6,BALIWAG,Facebook Ads,OFW Land base,hyundai engineering korea,Deferred Cash,37,"PHP 403,000",UNNA CORNER
+09/16/2025 17:14:04,09/16/2025,Client 689,33,"PHP 211,500",Married,10,BALIWAG,Referral,Locally Employed,the medical city,20-80 Pagibig Financing,41,"PHP 106,000",UNNA CORNER
+10/22/2025 10:40:45,10/22/2025,Client 690,36,"PHP 181,500",Single,,GEN TRI,Facebook Ads,OFW Land base,kuwait oil company,10-90 Bank Financing,,,UNNA CORNER
+10/22/2025 16:37:49,10/22/2025,Client 691,45,"PHP 318,000",Married,7,BALIWAG,Facebook Ads,OFW Land base,aramco,20-80 Pagibig Financing,43,"PHP 197,000",UNNA CORNER
+12/27/2025 16:37:11,12/27/2025,Client 692,51,"PHP 237,000",Married,4,BALIWAG,Referral,OFW Land base,Emaar properties,20-80 Pagibig Financing,45,"PHP 194,000",UNNA CORNER
+02/26/2026 19:46:53,02/26/2026,Client 693,33,"PHP 175,000",Married,8,BALIWAG,Referral,OFW Land base,KUWAIT OIL COMPANY,20-80 Pagibig Financing,32,"PHP 117,000",UNNA CORNER
+06/10/2026 20:11:12,06/10/2026,Client 694,43,"PHP 357,000",Married,4,BALIWAG,Facebook Ads,OFW Land base,Emaar properties,20-80 Pagibig Financing,47,"PHP 298,500",UNNA CORNER
+06/12/2026 18:36:32,06/12/2026,Client 695,63,"PHP 365,000",Single,,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,10-90 Bank Financing,,,UNNA CORNER
+06/15/2026 17:28:30,06/15/2026,Client 696,36,"PHP 204,000",Married,8,BALIWAG,Facebook Ads,Locally Employed,Cebu pacific,10-90 Bank Financing,36,"PHP 188,000",UNNA CORNER
+07/25/2026 14:19:02,07/25/2026,Client 697,40,"PHP 346,500",Married,7,BALIWAG,Facebook Ads,OFW Land base,qatar PETROLEUM,20-80 Pagibig Financing,44,"PHP 328,500",UNNA CORNER
+08/22/2026 14:44:21,08/22/2026,Client 698,41,"PHP 288,000",Single,,BALIWAG,Facebook Ads,OFW Land base,emaar properties,Deferred Cash,,,UNNA CORNER
+08/27/2026 09:49:47,08/27/2026,Client 699,45,"PHP 185,000",Married,10,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,47,"PHP 216,000",UNNA CORNER
+09/13/2026 17:28:17,09/13/2026,Client 700,45,"PHP 186,000",Single,,GEN TRI,Facebook Ads,OFW Sea Base,maersk line,20-80 Pagibig Financing,,,UNNA CORNER
+09/23/2026 11:14:49,09/23/2026,Client 701,58,"PHP 135,000",Married,8,GEN TRI,Broker/Agent,OFW Land base,al futtaim group,Deferred Cash,61,"PHP 90,000",UNNA CORNER
+10/19/2026 17:19:42,10/19/2026,Client 702,56,"PHP 208,500",Married,5,BALIWAG,Referral,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,55,"PHP 220,000",UNNA CORNER
+10/24/2026 08:42:20,10/24/2026,Client 703,55,"PHP 363,000",Married,7,BALIWAG,Facebook Ads,Self Employed/ Business Owner,family agricultural business,20-80 Pagibig Financing,59,"PHP 411,000",UNNA CORNER
+12/04/2026 14:44:47,12/04/2026,Client 704,45,"PHP 243,000",Married,8,BALIWAG,Facebook Ads,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,48,"PHP 252,000",UNNA CORNER
+12/31/2026 17:38:33,12/31/2026,Client 705,36,"PHP 195,000",Married,6,BALIWAG,Referral,Locally Employed,st. Luke's medical Center,20-80 Pagibig Financing,33,"PHP 184,000",UNNA CORNER
+01/22/2027 20:42:31,01/22/2027,Client 706,62,"PHP 187,500",Married,5,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,60,"PHP 202,500",UNNA CORNER
+08/26/2027 17:03:02,08/26/2027,Client 707,41,"PHP 211,000",Married,8,BALIWAG,Facebook Ads,Locally Employed,Bdo unibank,10-90 Bank Financing,41,"PHP 141,000",UNNA CORNER
+08/28/2027 20:28:28,08/28/2027,Client 708,42,"PHP 284,000",Single,,BALIWAG,Broker/Agent,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,,,UNNA CORNER
+11/03/2027 08:16:55,11/03/2027,Client 709,48,"PHP 370,500",Married,6,BALIWAG,Referral,OFW Land base,adnoc,20-80 Pagibig Financing,46,"PHP 181,000",UNNA CORNER
+11/12/2027 14:24:33,11/12/2027,Client 710,59,"PHP 286,500",Married,7,BALIWAG,Broker/Agent,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,60,"PHP 299,000",UNNA CORNER
+12/09/2027 15:01:44,12/09/2027,Client 711,54,"PHP 305,000",Single,,BALIWAG,Facebook Ads,Locally Employed,holcim Philippines,20-80 Pagibig Financing,,,UNNA CORNER
+01/04/2028 11:03:13,01/04/2028,Client 712,50,"PHP 235,500",Single,N/a,GEN TRI,Broker/Agent,Locally Employed,meralco,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+02/21/2028 17:52:57,02/21/2028,Client 713,41,"PHP 324,000",Widow,N/a,BALIWAG,Other:,OFW Sea Base,Msc cruises,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+05/22/2028 17:35:52,05/22/2028,Client 714,65,"PHP 132,000",Married,8,GEN TRI,Other:,OFW Land base,Aramco,Deferred Cash,58,"PHP 76,000",UNNA CORNER
+08/11/2028 13:37:58,08/11/2028,Client 715,43,"PHP 390,000",Married,4,BALIWAG,Facebook Ads,OFW Land base,Al futtaim group,10-90 Bank Financing,37,"PHP 248,000",UNNA CORNER
+10/23/2028 15:33:43,10/23/2028,Client 716,56,"PHP 106,500",Married,4,GEN TRI,Facebook Ads,Self Employed/ Business Owner,own business operations,20-80 Pagibig Financing,54,"PHP 82,000",UNNA CORNER
+11/20/2028 15:39:25,11/20/2028,Client 717,39,"PHP 319,000",Married,3,BALIWAG,Broker/Agent,OFW Land base,Kuwait oil company,10-90 Bank Financing,36,"PHP 232,000",UNNA CORNER
+03/23/2024 10:39:07,03/23/2024,Client 718,48,"PHP 333,000",Married,3,BALIWAG,Other:,OFW Land base,Hyundai engineering korea,20-80 Pagibig Financing,48,"PHP 322,000",UNNA CORNER
+06/15/2024 20:16:33,06/15/2024,Client 719,37,"PHP 285,000",Married,3,BALIWAG,Facebook Ads,Locally Employed,Sm investments corp,20-80 Pagibig Financing,34,"PHP 244,000",UNNA CORNER
+06/18/2024 12:45:55,06/18/2024,Client 720,53,"PHP 133,000",Married,6,GEN TRI,Referral,Self Employed/ Business Owner,freelance Services,20-80 Pagibig Financing,55,"PHP 145,500",UNNA CORNER
+10/28/2024 14:48:58,10/28/2024,Client 721,57,"PHP 313,000",Married,6,BALIWAG,Facebook Ads,OFW Sea Base,CARNIVAL cruise line,10-90 Bank Financing,60,"PHP 196,000",UNNA CORNER
+01/18/2025 16:17:17,01/18/2025,Client 722,59,"PHP 96,000",Married,7,GEN TRI,Referral,OFW Land base,enoc,10-90 Bank Financing,53,"PHP 88,000",UNNA CORNER
+02/22/2025 14:36:53,02/22/2025,Client 723,63,"PHP 208,000",Married,8,BALIWAG,Referral,Locally Employed,bureau OF internal REVENUE,Cash,67,"PHP 241,500",UNNA CORNER
+06/13/2025 13:43:23,06/13/2025,Client 724,47,"PHP 259,000",Single,N/a,BALIWAG,Referral,Locally Employed,San miguel corporation,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+08/12/2025 18:25:11,08/12/2025,Client 725,59,"PHP 174,000",Married,8,BALIWAG,Facebook Ads,Self Employed/ Business Owner,online seller,Cash,63,"PHP 154,000",UNNA CORNER
+08/16/2025 15:58:30,08/16/2025,Client 726,47,"PHP 179,000",Married,8,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,20-80 Pagibig Financing,40,"PHP 140,000",UNNA CORNER
+08/30/2025 18:03:43,08/30/2025,Client 727,35,"PHP 335,000",Married,6,BALIWAG,Facebook Ads,OFW Land base,hyundai engineering korea,Deferred Cash,35,"PHP 422,000",UNNA CORNER
+09/16/2025 17:14:04,09/16/2025,Client 728,33,"PHP 208,000",Married,8,BALIWAG,Referral,Locally Employed,the medical city,20-80 Pagibig Financing,37,"PHP 112,500",UNNA CORNER
+10/22/2025 10:40:45,10/22/2025,Client 729,35,"PHP 178,500",Single,,GEN TRI,Facebook Ads,OFW Land base,kuwait oil company,10-90 Bank Financing,,,UNNA CORNER
+10/22/2025 16:37:49,10/22/2025,Client 730,46,"PHP 297,000",Married,5,BALIWAG,Facebook Ads,OFW Land base,aramco,20-80 Pagibig Financing,40,"PHP 199,500",UNNA CORNER
+12/27/2025 16:37:11,12/27/2025,Client 731,53,"PHP 235,000",Married,4,BALIWAG,Referral,OFW Land base,Emaar properties,20-80 Pagibig Financing,44,"PHP 196,500",UNNA CORNER
+02/26/2026 19:46:53,02/26/2026,Client 732,37,"PHP 167,000",Married,7,BALIWAG,Referral,OFW Land base,KUWAIT OIL COMPANY,20-80 Pagibig Financing,35,"PHP 108,000",UNNA CORNER
+06/10/2026 20:11:12,06/10/2026,Client 733,42,"PHP 369,000",Married,6,BALIWAG,Facebook Ads,OFW Land base,Emaar properties,20-80 Pagibig Financing,45,"PHP 310,000",UNNA CORNER
+06/12/2026 18:36:32,06/12/2026,Client 734,63,"PHP 385,000",Single,,BALIWAG,Facebook Ads,OFW Land base,kaiser permanente,10-90 Bank Financing,,,UNNA CORNER
+06/15/2026 17:28:30,06/15/2026,Client 735,36,"PHP 200,000",Married,8,BALIWAG,Facebook Ads,Locally Employed,Cebu pacific,10-90 Bank Financing,33,"PHP 196,500",UNNA CORNER
+07/25/2026 14:19:02,07/25/2026,Client 736,42,"PHP 360,000",Married,7,BALIWAG,Facebook Ads,OFW Land base,qatar PETROLEUM,20-80 Pagibig Financing,46,"PHP 339,000",UNNA CORNER
+08/22/2026 14:44:21,08/22/2026,Client 737,40,"PHP 283,000",Single,,BALIWAG,Facebook Ads,OFW Land base,emaar properties,Deferred Cash,,,UNNA CORNER
+08/27/2026 09:49:47,08/27/2026,Client 738,48,"PHP 176,000",Married,9,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,46,"PHP 220,000",UNNA CORNER
+09/13/2026 17:28:17,09/13/2026,Client 739,41,"PHP 183,000",Single,,GEN TRI,Facebook Ads,OFW Sea Base,maersk line,20-80 Pagibig Financing,,,UNNA CORNER
+09/23/2026 11:14:49,09/23/2026,Client 740,58,"PHP 128,000",Married,10,GEN TRI,Broker/Agent,OFW Land base,al futtaim group,Deferred Cash,61,"PHP 88,000",UNNA CORNER
+10/19/2026 17:19:42,10/19/2026,Client 741,55,"PHP 198,000",Married,5,BALIWAG,Referral,OFW Sea Base,philippine airlines (int'l),20-80 Pagibig Financing,57,"PHP 229,500",UNNA CORNER
+10/24/2026 08:42:20,10/24/2026,Client 742,55,"PHP 370,000",Married,7,BALIWAG,Facebook Ads,Self Employed/ Business Owner,family agricultural business,20-80 Pagibig Financing,58,"PHP 437,000",UNNA CORNER
+12/04/2026 14:44:47,12/04/2026,Client 743,48,"PHP 226,500",Married,7,BALIWAG,Facebook Ads,OFW Land base,Pricewaterhousecoopers uae,20-80 Pagibig Financing,49,"PHP 254,000",UNNA CORNER
+12/31/2026 17:38:33,12/31/2026,Client 744,35,"PHP 202,500",Married,6,BALIWAG,Referral,Locally Employed,st. Luke's medical Center,20-80 Pagibig Financing,33,"PHP 191,000",UNNA CORNER
+01/22/2027 20:42:31,01/22/2027,Client 745,64,"PHP 186,000",Married,6,BALIWAG,Facebook Ads,Locally Employed,holcim philippines,20-80 Pagibig Financing,60,"PHP 203,000",UNNA CORNER
+08/26/2027 17:03:02,08/26/2027,Client 746,41,"PHP 205,000",Married,7,BALIWAG,Facebook Ads,Locally Employed,Bdo unibank,10-90 Bank Financing,43,"PHP 142,000",UNNA CORNER
+08/28/2027 20:28:28,08/28/2027,Client 747,41,"PHP 268,000",Single,,BALIWAG,Broker/Agent,OFW Sea Base,evergreen marine,20-80 Pagibig Financing,,,UNNA CORNER
+11/03/2027 08:16:55,11/03/2027,Client 748,48,"PHP 357,000",Married,6,BALIWAG,Referral,OFW Land base,adnoc,20-80 Pagibig Financing,46,"PHP 181,000",UNNA CORNER
+11/12/2027 14:24:33,11/12/2027,Client 749,59,"PHP 301,500",Married,7,BALIWAG,Broker/Agent,OFW Land base,pricewaterhousecoopers uae,20-80 Pagibig Financing,59,"PHP 298,000",UNNA CORNER
+12/09/2027 15:01:44,12/09/2027,Client 750,51,"PHP 292,500",Single,,BALIWAG,Facebook Ads,Locally Employed,holcim Philippines,20-80 Pagibig Financing,,,UNNA CORNER
+01/04/2028 11:03:13,01/04/2028,Client 751,53,"PHP 253,500",Single,N/a,GEN TRI,Broker/Agent,Locally Employed,meralco,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+02/21/2028 17:52:57,02/21/2028,Client 752,41,"PHP 324,000",Widow,N/a,BALIWAG,Other:,OFW Sea Base,Msc cruises,20-80 Pagibig Financing,N/a,N/a,UNNA CORNER
+05/22/2028 17:35:52,05/22/2028,Client 753,65,"PHP 130,000",Married,6,GEN TRI,Other:,OFW Land base,Aramco,Deferred Cash,60,"PHP 73,000",UNNA CORNER
+08/11/2028 13:37:58,08/11/2028,Client 754,43,"PHP 391,000",Married,4,BALIWAG,Facebook Ads,OFW Land base,Al futtaim group,10-90 Bank Financing,38,"PHP 247,500",UNNA CORNER
+10/23/2028 15:33:43,10/23/2028,Client 755,58,"PHP 101,000",Married,5,GEN TRI,Facebook Ads,Self Employed/ Business Owner,own business operations,20-80 Pagibig Financing,53,"PHP 80,000",UNNA CORNER
+11/20/2028 15:39:25,11/20/2028,Client 756,40,"PHP 323,000",Married,3,BALIWAG,Broker/Agent,OFW Land base,Kuwait oil company,10-90 Bank Financing,35,"PHP 226,500",UNNA CORNER
